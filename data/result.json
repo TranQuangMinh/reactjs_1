@@ -1,0 +1,2182 @@
+{
+    "took": 73,
+    "timed_out": false,
+    "_shards": {
+        "total": 5,
+        "successful": 5,
+        "failed": 0
+    },
+    "hits": {
+        "total": 15443,
+        "max_score": 4.2475257,
+        "hits": [{
+            "_index": "muabannhanh",
+            "_type": "product",
+            "_id": "261455",
+            "_score": 4.2475257,
+            "_source": {
+                "id": 261455,
+                "hash_id": "4ffd0300",
+                "name": "B\u00e1n xe t\u1ea3i veam",
+                "slug": "ban-xe-tai-veam",
+                "url": "https:\/\/muabannhanh.com\/0902162193\/id-4ffd0300",
+                "default_image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2016\/01\/18\/569c8caf91005_1453100207.jpg",
+                "default_thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2016\/01\/18\/569c8caf91005_1453100207.jpg",
+                "default_thumbnail_small_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail-small\/2016\/01\/18\/569c8caf91005_1453100207.jpg",
+                "default_image": "2016\/01\/18\/569c8caf91005_1453100207.jpg",
+                "gallery": [{
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2016\/01\/18\/569c8caf91005_1453100207.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2016\/01\/18\/569c8caf91005_1453100207.jpg",
+                    "image": "2016\/01\/18\/569c8caf91005_1453100207.jpg",
+                    "caption": "B\u00e1n xe t\u1ea3i veam"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2016\/01\/18\/569c8cc0c87f9_1453100224.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2016\/01\/18\/569c8cc0c87f9_1453100224.jpg",
+                    "image": "2016\/01\/18\/569c8cc0c87f9_1453100224.jpg",
+                    "caption": "B\u00e1n xe t\u1ea3i veam"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2016\/01\/18\/569c8ce057827_1453100256.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2016\/01\/18\/569c8ce057827_1453100256.jpg",
+                    "image": "2016\/01\/18\/569c8ce057827_1453100256.jpg",
+                    "caption": "B\u00e1n xe t\u1ea3i veam"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2016\/01\/18\/569c8d6fd1768_1453100399.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2016\/01\/18\/569c8d6fd1768_1453100399.jpg",
+                    "image": "2016\/01\/18\/569c8d6fd1768_1453100399.jpg",
+                    "caption": "B\u00e1n xe t\u1ea3i veam"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2016\/01\/18\/569c8d784fde4_1453100408.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2016\/01\/18\/569c8d784fde4_1453100408.jpg",
+                    "image": "2016\/01\/18\/569c8d784fde4_1453100408.jpg",
+                    "caption": "B\u00e1n xe t\u1ea3i veam"
+                }],
+                "description": "C\u00d4NG TY TNHH \u00d4 T\u00d4 LONG BI\u00caN\r\n\u0110\u1ecba ch\u1ec9: \u0110\u01b0\u1eddng 5 k\u00e9o d\u00e0i,C\u1ea7u \u0110\u00f4ng Tr\u00f9,Long Bi\u00ean,H\u00e0 N\u1ed9i\r\nL\u00e0 c\u00f4ng ty chuy\u00ean ph\u00e2n ph\u1ed1i c\u00e1c d\u00f2ng xe \u00f4 t\u00f4 t\u1ea3i c\u1ee7a h\u00e3ng VEAM,xe \u0111i\u1ec7n,\r\nMr D\u0168NG \r\nXin gi\u1edbi thi\u1ec7u\r\nXe t\u1ea3i veam vt 651 T\u1ea2I TR\u1eccNG 6490 kg,\u0111\u1ed9ng c\u01a1 NISSAN nh\u1eadp kh\u1ea9u 100 % nh\u1eadt b\u1ea3n,ki\u1ec3u d\u00e1ng isuzu,\u0111\u1eb9p,sang tr\u1ecdng\r\nTH\u00d4NG S\u1ed0 K\u1ef8 THU\u1eacT XE VEAM VT 651\r\n \r\nNh\u00e3n hi\u1ec7u\tVeam VT 651\r\nLo\u1ea1i ph\u01b0\u01a1ng ti\u1ec7n\tXe \u00f4 t\u00f4 t\u1ea3i\r\nXu\u1ea5t x\u1ee9\tTrong n\u01b0\u1edbc\r\nTh\u00f4ng s\u1ed1 chung\t \r\nTr\u1ecdng l\u01b0\u1ee3ng b\u1ea3n th\u00e2n( kg)\t3420\r\nT\u1ea3i tr\u1ecdng (kg)\t6490\r\nTr\u1ecdng l\u01b0\u1ee3ng to\u00e0n b\u1ed9 cho ph\u00e9p tham gia giao th\u00f4ng (kg)\t10105\r\nS\u1ed1 ch\u1ed7 ng\u1ed3i\t03\r\nTr\u1ecdng l\u01b0\u1ee3ng to\u00e0n b\u1ed9\t10710\r\nK\u00edch th\u01b0\u1edbc t\u1ed5ng th\u1ec3\t6950x2050x3050\r\nK\u00edch th\u01b0\u1edbc l\u00f2ng th\u00f9ng(mm)\t5095x1880x1870\r\nChi\u1ec1u d\u00e0i c\u01a1 s\u1edf(mm)\t3800\r\nV\u1ec7t b\u00e1nh xe tr\u01b0\u1edbc\/sau\t1570\/1530\r\nC\u00f4ng th\u1ee9c b\u00e1nh xe\t4x2\r\nNhi\u00ean li\u1ec7u\tDiesel\r\nCabin \t \r\nLo\u1ea1i\t\u0110\u01a1n ki\u1ec3u l\u1eadt\r\nK\u00edch th\u01b0\u1edbc  DxRxC\t1531871630\r\n\u0110\u1ed9ng c\u01a1\t \r\nLo\u1ea1i\tNissan ZD30,4k\u1ef3 4 xi lanh\r\nDung t\u00edch xilanh\/\r\nC\u00f4ng su\u1ea5t c\u1ef1c \u0111\u1ea1i\t \r\n130ps \/3600\r\nM\u00f4 men max\/t\u1ed1c \u0111\u1ed9 v\u00f2ng quay (N.m\/v\u00f2ng\/ph\u00fat)\t280\/1600\/3200\r\nTi\u00eau chu\u1ea9n kh\u00ed th\u1ea3i\tEuro II\r\nC\u1eeda k\u00ednh kho\u00e1 \u0111i\u1ec7n\tC\u00f3\r\nLy h\u1ee3p\t1 \u0110\u0129a ma s\u00e1t kh\u00f4,d\u1eabn \u0111\u1ed9ng thu\u1ef7 l\u1ef1c\r\nH\u1ed9p s\u1ed1\t5 s\u1ed1 ti\u1ebfn-1 s\u1ed1 l\u00f9i\r\nC\u1ea7u ch\u1ee7 \u0111\u1ed9ng\tC\u1ea7u sau\r\nL\u1ed1p \t \r\nS\u1ed1 l\u1ed1p tr\u00ean tr\u1ee5c d\u1ef1 ph\u00f2ng\t02\/04\/01\r\nK\u00edch c\u1ee1 l\u1ed1p\t7,50-16\r\nH\u1ec7 th\u1ed1ng phanh\t \r\nPhanh tr\u01b0\u1edbc\/sau\/phanh \u0111\u1ed7\tPhanh tang tr\u1ed1ng\r\nDung t\u00edch b\u00ecnh nhi\u00ean li\u1ec7u\t100 l\u00edt\r\nM\u1ee9c ti\u00eau hao nhi\u00ean li\u1ec7u \u1edf 60km\/h\t11 l\u00edt\r\nH\u1ec7 th\u1ed1ng \u0111i\u1ec7n \/\u1eafc quy\t12V -100 Ah\r\nKh\u00e1ch h\u00e0ng quan t\u00e2m xin vui l\u00f2ng g\u1ecdi                                                              \r\nTr\u00e2n th\u00e0nh c\u1ea3m \u01a1n kh\u00e1ch h\u00e0ng \u0111\u00e3 quan t\u00e2m   \r\nR\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c ph\u1ee5c v\u1ee5 qu\u00fd kh\u00e1ch!",
+                "category": {
+                    "id": 311,
+                    "name": "Mua b\u00e1n xe t\u1ea3i",
+                    "slug": "mua-ban-xe-tai",
+                    "slug_alphabet": "muabanxetai",
+                    "url": "https:\/\/muabannhanh.com\/mua-ban-xe-tai"
+                },
+                "parent_category": {
+                    "id": 4,
+                    "name": "\u00d4 t\u00f4\/Xe t\u1ea3i",
+                    "slug": "4-o-to-xe-tai"
+                },
+                "price_origin": 572000000,
+                "price": 560000000,
+                "price_sale_off": 560000000,
+                "type": "C\u1ea7n b\u00e1n\/D\u1ecbch v\u1ee5",
+                "type_value": 1,
+                "conditions": "M\u1edbi 100%",
+                "conditions_value": 1,
+                "address": "C\u1ea7u \u0110\u00f4ng Tr\u00f9-\u0110\u00f4ng Anh-H\u00e0 N\u1ed9i",
+                "province": {
+                    "id": 2,
+                    "hash_id": "02000000",
+                    "name": "H\u00e0 N\u1ed9i",
+                    "slug": "ha-noi",
+                    "slug_alphabet": "hanoi",
+                    "url": "https:\/\/muabannhanh.com\/tinh-thanh\/ha-noi\/id-02000000"
+                },
+                "district": {
+                    "id": 49,
+                    "hash_id": "31000000",
+                    "name": null,
+                    "slug": null,
+                    "slug_alphabet": "n-a",
+                    "url": "https:\/\/muabannhanh.com\/quan-huyen\/\/id-31000000"
+                },
+                "status": "Active",
+                "status_value": 1,
+                "is_shown": 1,
+                "is_express_delivery": 0,
+                "attribute_express_delivery": null,
+                "attribute_express_delivery_slug": null,
+                "attribute_express_delivery_value": 0,
+                "quantity_max": 0,
+                "view_count": 89,
+                "created_at": "2016-01-18 14:08:41",
+                "updated_at": "2016-01-18 16:27:06",
+                "time_updated_at": 1453109226,
+                "location": {
+                    "lat": 0,
+                    "lon": 0
+                },
+                "user": {
+                    "id": 91977,
+                    "phone": "0902 162 193",
+                    "phone_number": "0902162193",
+                    "name": "Ph\u1ea1m V\u0103n Chinh",
+                    "slug": "pham-van-chinh",
+                    "url": "https:\/\/muabannhanh.com\/0902162193",
+                    "avatar_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/avatar-d.png",
+                    "cover_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/cover-d.png",
+                    "membership": "Basic",
+                    "membership_value": 21,
+                    "vip_type": 0,
+                    "location": {
+                        "lat": 0,
+                        "lon": 0
+                    },
+                    "address": "C\u1ea7u \u0110\u00f4ng Tr\u00f9-\u0110\u00f4ng Anh-H\u00e0 N\u1ed9i"
+                },
+                "tag": {
+                    "user": [{
+                        "id": 16851,
+                        "name": "Xe Tai Veam",
+                        "slug": "xe-tai-veam",
+                        "slug_alphabet": "xetaiveam",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-veam",
+                        "url_label": "https:\/\/muabannhanh.com\/0902162193\/l\/xe-tai-veam"
+                    }, {
+                        "id": 127214,
+                        "name": "Xe Tai Veam May Nissan",
+                        "slug": "xe-tai-veam-may-nissan",
+                        "slug_alphabet": "xetaiveammaynissan",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-veam-may-nissan",
+                        "url_label": "https:\/\/muabannhanh.com\/0902162193\/l\/xe-tai-veam-may-nissan"
+                    }, {
+                        "id": 568716,
+                        "name": "Veam Vt 651",
+                        "slug": "veam-vt-651",
+                        "slug_alphabet": "veamvt651",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/veam-vt-651",
+                        "url_label": "https:\/\/muabannhanh.com\/0902162193\/l\/veam-vt-651"
+                    }, {
+                        "id": 568717,
+                        "name": "Xe Tai Veam Vt 651",
+                        "slug": "xe-tai-veam-vt-651",
+                        "slug_alphabet": "xetaiveamvt651",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-veam-vt-651",
+                        "url_label": "https:\/\/muabannhanh.com\/0902162193\/l\/xe-tai-veam-vt-651"
+                    }],
+                    "admin": [{
+                        "id": 95391,
+                        "name": "Mua Ban Xe Tai Ha Noi",
+                        "slug": "mua-ban-xe-tai-ha-noi",
+                        "slug_alphabet": "muabanxetaihanoi",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-ha-noi",
+                        "url_label": "https:\/\/muabannhanh.com\/0902162193\/l\/mua-ban-xe-tai-ha-noi"
+                    }, {
+                        "id": 393360,
+                        "name": "Gia Mua Ban Xe Tai",
+                        "slug": "gia-mua-ban-xe-tai",
+                        "slug_alphabet": "giamuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0902162193\/l\/gia-mua-ban-xe-tai"
+                    }, {
+                        "id": 393408,
+                        "name": "Mua Ban Xe Tai Moi 100%",
+                        "slug": "mua-ban-xe-tai-moi-100",
+                        "slug_alphabet": "muabanxetaimoi100",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100",
+                        "url_label": "https:\/\/muabannhanh.com\/0902162193\/l\/mua-ban-xe-tai-moi-100"
+                    }, {
+                        "id": 490797,
+                        "name": "Mua Ban Xe Tai Huyen Thach That Ha Noi",
+                        "slug": "mua-ban-xe-tai-huyen-thach-that-ha-noi",
+                        "slug_alphabet": "muabanxetaihuyenthachthathanoi",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-huyen-thach-that-ha-noi",
+                        "url_label": "https:\/\/muabannhanh.com\/0902162193\/l\/mua-ban-xe-tai-huyen-thach-that-ha-noi"
+                    }, {
+                        "id": 531741,
+                        "name": "Mua Ban Xe Tai Moi 100% Gia Re O Dau Bao Nhieu Ha Noi",
+                        "slug": "mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-ha-noi",
+                        "slug_alphabet": "muabanxetaimoi100giareodaubaonhieuhanoi",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-ha-noi",
+                        "url_label": "https:\/\/muabannhanh.com\/0902162193\/l\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-ha-noi"
+                    }, {
+                        "id": 543828,
+                        "name": "Can Ban \/ Dich Vu Mua Ban Xe Tai",
+                        "slug": "can-ban-dich-vu-mua-ban-xe-tai",
+                        "slug_alphabet": "canbandichvumuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/can-ban-dich-vu-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0902162193\/l\/can-ban-dich-vu-mua-ban-xe-tai"
+                    }]
+                }
+            }
+        }, {
+            "_index": "muabannhanh",
+            "_type": "product",
+            "_id": "70739",
+            "_score": 4.2475257,
+            "_source": {
+                "id": 70739,
+                "hash_id": "53140100",
+                "name": "Xe t\u1ea3i Jac 4.9 T\u1ea5n, xe T\u1ea3i Jac 4 T\u1ea5n 9, Xe t\u1ea3i jac 4T9, HFC1061KT1 \u20134.9 T\u1ea5n",
+                "slug": "xe-tai-jac-4-9-tan-xe-tai-jac-4-tan-9-xe-tai-jac-4t9-hfc1061kt1-4-9-tan",
+                "url": "https:\/\/muabannhanh.com\/0938677792\/id-53140100",
+                "default_image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/09\/55ed375c033aa_1441609564.jpg",
+                "default_thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/09\/55ed375c033aa_1441609564.jpg",
+                "default_thumbnail_small_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail-small\/2015\/09\/55ed375c033aa_1441609564.jpg",
+                "default_image": "2015\/09\/55ed375c033aa_1441609564.jpg",
+                "gallery": [{
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/09\/55ed375c033aa_1441609564.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/09\/55ed375c033aa_1441609564.jpg",
+                    "image": "2015\/09\/55ed375c033aa_1441609564.jpg",
+                    "caption": "Xe t\u1ea3i Jac 4.9 T\u1ea5n, xe T\u1ea3i Jac 4 T\u1ea5n 9, Xe t\u1ea3i jac 4T9, HFC1061KT1 \u20134.9 T\u1ea5n"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/09\/55ed375e5d01f_1441609566.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/09\/55ed375e5d01f_1441609566.jpg",
+                    "image": "2015\/09\/55ed375e5d01f_1441609566.jpg",
+                    "caption": "Xe t\u1ea3i Jac 4.9 T\u1ea5n, xe T\u1ea3i Jac 4 T\u1ea5n 9, Xe t\u1ea3i jac 4T9, HFC1061KT1 \u20134.9 T\u1ea5n"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/09\/55ed376139b07_1441609569.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/09\/55ed376139b07_1441609569.jpg",
+                    "image": "2015\/09\/55ed376139b07_1441609569.jpg",
+                    "caption": "Xe t\u1ea3i Jac 4.9 T\u1ea5n, xe T\u1ea3i Jac 4 T\u1ea5n 9, Xe t\u1ea3i jac 4T9, HFC1061KT1 \u20134.9 T\u1ea5n"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/09\/55ed37639b8cf_1441609571.jpeg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/09\/55ed37639b8cf_1441609571.jpeg",
+                    "image": "2015\/09\/55ed37639b8cf_1441609571.jpeg",
+                    "caption": "Xe t\u1ea3i Jac 4.9 T\u1ea5n, xe T\u1ea3i Jac 4 T\u1ea5n 9, Xe t\u1ea3i jac 4T9, HFC1061KT1 \u20134.9 T\u1ea5n"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/09\/55ed376be230a_1441609579.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/09\/55ed376be230a_1441609579.jpg",
+                    "image": "2015\/09\/55ed376be230a_1441609579.jpg",
+                    "caption": "Xe t\u1ea3i Jac 4.9 T\u1ea5n, xe T\u1ea3i Jac 4 T\u1ea5n 9, Xe t\u1ea3i jac 4T9, HFC1061KT1 \u20134.9 T\u1ea5n"
+                }],
+                "description": "Xe T\u1ea3i Jac 4.9 T\u1ea5n, xe T\u1ea3i Jac 4 T\u1ea5n 9, Xe t\u1ea3i jac 4T9, HFC1061KT1 \u20134.9 T\u1ea5n\r\nXe t\u1ea3i Jac 4 t\u1ea5n 9 th\u00f9ng mui b\u1ea1t, l\u00e0 d\u00f2ng xe t\u1ea3i s\u1ed1 1 v\u1ec1 ch\u1ea5t l\u01b0\u1ee3ng , v\u1edbi t\u00ednh n\u0103ng v\u01b0\u1ee3t tr\u1ed9i xe t\u1ea3i Jac 4 t\u1ea5n 9 th\u00f9ng mui b\u1ea1t lu\u00f4n kh\u1eb3ng \u0111\u1ecbnh \u0111\u01b0\u1ee3c t\u00ean tu\u1ed5i c\u1ee7a m\u00ecnh tr\u00ean th\u1ecb tr\u01b0\u1eddng trong v\u00e0 ngo\u00e0i n\u01b0\u1edbc .\r\nQu\u00ed kh\u00e1ch h\u00e0ng c\u00f3 nhu c\u1ea7u mua xe \u0111\u1ec3 ph\u1ee5c v\u1ee5 cho chuy\u00ean ch\u1edf h\u00e0ng h\u00f3a, h\u00e3y ngh\u0129 ngay \u0111\u1ebfn xe t\u1ea3i Jac 4 t\u1ea5n 9 th\u00f9ng mui b\u1ea1t , h\u00e3y nh\u1eafc m\u00e1y l\u00ean li\u00ean l\u1ea1c v\u1edbi ch\u00fang t\u00f4i \u0111\u1ec3 \u0111\u01b0\u1ee3c t\u01b0 v\u1ea5n t\u1ed1t nh\u1ea5t .\r\nXe t\u1ea3i th\u00f9ng, xe t\u1ea3i nh\u1eb9 jac 4 t\u1ea5n 9 gi\u00e1 b\u00ecnh d\u00e2n nh\u1ea5t th\u1ecb tr\u01b0\u1eddng hi\u1ec7n nay.\r\n\r\nC\u00c1C D\u1ecaCH V\u1ee4 TR\u01af\u1edaC V\u00c0 SAU B\u00c1N H\u00c0NG T\u1ea0I TRUNG T\u00c2M XE T\u1ea2I\r\n* H\u1ed6 TR\u1ee2 MUA TR\u1ea2 G\u00d3P: Kh\u00e1ch h\u00e0ng c\u00f3 th\u1ec3 vay 60% \u2013 70% gi\u00e1 tr\u1ecb xe, th\u1eddi gian vay t\u1eeb 12 \u0111\u1ebfn 60 th\u00e1ng. Th\u1ee7 t\u1ee5c nhanh, th\u1ebf  ch\u1ea5p b\u1eb1ng ch\u00ednh chi\u1ebfc xe c\u1ea7n vay.\r\n* H\u1ed6 TR\u1ee2 \u0110\u00d3NG TH\u00d9NG: C\u00f4ng ty ch\u00fang t\u00f4i c\u00f3 x\u01b0\u1edfng s\u1ea3n xu\u1ea5t c\u00e1c lo\u1ea1i th\u00f9ng: th\u00f9ng b\u1ea3o \u00f4n, th\u00f9ng \u0111\u00f4ng l\u1ea1nh, th\u00f9ng mui ph\u1ee7, th\u00f9ng n\u00e2ng h\u1ea1, th\u00f9ng ch\u1edf xe m\u00e1y, l\u1eafp c\u1ea9u, k\u00e9o d\u00e0i chassis \u2026\r\n* H\u1ed6 TR\u1ee2 \u0110\u0102NG K\u00dd, HO\u00c1N C\u1ea2I: Nh\u00e2n vi\u00ean b\u00e1n h\u00e0ng tr\u01b0\u1ee3c ti\u1ebfp t\u01b0 v\u1ea5n v\u00e0 l\u00e0m c\u00e1c th\u1ee7 t\u1ee5c \u0111\u0103ng k\u00fd, \u0111\u0103ng ki\u1ec3m, ho\u00e1n c\u1ea3i \u0111\u1ec3 ho\u00e0n thi\u1ec7n m\u1ed9t chi\u1ebfc xe ho\u00e0n ch\u1ec9nh \u0111\u1ebfn tay kh\u00e1ch h\u00e0ng.\r\n* D\u1ecaCH V\u1ee4 B\u1ea2O H\u00c0NH, S\u1eecA CH\u1eeeA, THAY TH\u1ebe PH\u1ee4 T\u00d9NG CH\u00cdNH H\u00c3NG: Xe c\u1ee7a ch\u00fang t\u00f4i \u0111\u01b0\u1ee3c b\u1ea3o h\u00e0nh ch\u00ednh h\u00e3ng, b\u1ea3o h\u00e0nh theo quy \u0111\u1ecbnh c\u1ee7a nh\u00e0 s\u1ea3n xu\u1ea5t. D\u1ecbch v\u1ee5 s\u1eeda ch\u1eefa v\u00e0 thay th\u1ebf ph\u1ee5 t\u00f9ng ch\u00ednh h\u00e3ng c\u00f3 xu\u1ea5t s\u1ee9 ngu\u1ed3n g\u1ed1c r\u00f5 r\u00e0ng, mang \u0111\u1ebfn s\u1ef1 an t\u00e2m nh\u1ea5t cho Qu\u00fd kh\u00e1ch h\u00e0ng mua xe.",
+                "category": {
+                    "id": 311,
+                    "name": "Mua b\u00e1n xe t\u1ea3i",
+                    "slug": "mua-ban-xe-tai",
+                    "slug_alphabet": "muabanxetai",
+                    "url": "https:\/\/muabannhanh.com\/mua-ban-xe-tai"
+                },
+                "parent_category": {
+                    "id": 4,
+                    "name": "\u00d4 t\u00f4\/Xe t\u1ea3i",
+                    "slug": "4-o-to-xe-tai"
+                },
+                "price_origin": null,
+                "price": null,
+                "price_sale_off": null,
+                "type": "C\u1ea7n b\u00e1n\/D\u1ecbch v\u1ee5",
+                "type_value": 1,
+                "conditions": "M\u1edbi 100%",
+                "conditions_value": 1,
+                "address": "10\/9 QL13 - Khu Ph\u1ed1 T\u00e2y - Ph\u01b0\u1eddng V\u0129nh Ph\u00fa - Thu\u1eadn An - B\u00ecnh D\u01b0\u01a1ng",
+                "province": {
+                    "id": 10,
+                    "hash_id": "0a000000",
+                    "name": "B\u00ecnh D\u01b0\u01a1ng",
+                    "slug": "binh-duong",
+                    "slug_alphabet": "binhduong",
+                    "url": "https:\/\/muabannhanh.com\/tinh-thanh\/binh-duong\/id-0a000000"
+                },
+                "district": {
+                    "id": 123,
+                    "hash_id": "7b000000",
+                    "name": "Qu\u1eadn 6",
+                    "slug": "quan-6",
+                    "slug_alphabet": "quan6",
+                    "url": "https:\/\/muabannhanh.com\/quan-huyen\/quan-6\/id-7b000000"
+                },
+                "status": "Active",
+                "status_value": 1,
+                "is_shown": 1,
+                "is_express_delivery": 0,
+                "attribute_express_delivery": null,
+                "attribute_express_delivery_slug": null,
+                "attribute_express_delivery_value": 0,
+                "quantity_max": 0,
+                "view_count": 564,
+                "created_at": "2015-09-07 00:06:49",
+                "updated_at": "2016-01-25 17:25:26",
+                "time_updated_at": 1453717526,
+                "location": {
+                    "lat": "11.5418145",
+                    "lon": "106.9094845"
+                },
+                "user": {
+                    "id": 9142,
+                    "phone": "0938 677 792",
+                    "phone_number": "0938677792",
+                    "name": "Nguy\u1ec5n Trung C\u01b0\u1eddng",
+                    "slug": "nguyen-trung-cuong",
+                    "url": "https:\/\/muabannhanh.com\/0938677792",
+                    "avatar_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/avatar\/2015\/07\/55b9a0baedbf1_1438228666.jpg",
+                    "cover_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/cover\/2015\/07\/55b9a0f69f331_1438228726.jpg",
+                    "membership": "Basic",
+                    "membership_value": 21,
+                    "vip_type": 0,
+                    "location": {
+                        "lat": "11.5418145",
+                        "lon": "106.9094845"
+                    },
+                    "address": "10\/9 QL13 - Khu Ph\u1ed1 T\u00e2y - Ph\u01b0\u1eddng V\u0129nh Ph\u00fa - Thu\u1eadn An - B\u00ecnh D\u01b0\u01a1ng"
+                },
+                "tag": {
+                    "user": [{
+                        "id": 72010,
+                        "name": "Mua Ban Xe Tai Jac",
+                        "slug": "mua-ban-xe-tai-jac",
+                        "slug_alphabet": "muabanxetaijac",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-jac",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-jac"
+                    }, {
+                        "id": 96404,
+                        "name": "Xe Tai Jac Gia Re",
+                        "slug": "xe-tai-jac-gia-re",
+                        "slug_alphabet": "xetaijacgiare",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-jac-gia-re",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-jac-gia-re"
+                    }, {
+                        "id": 274504,
+                        "name": "Dai Ly Xe Tai Jac Uy Tin",
+                        "slug": "dai-ly-xe-tai-jac-uy-tin",
+                        "slug_alphabet": "dailyxetaijacuytin",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/dai-ly-xe-tai-jac-uy-tin",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/dai-ly-xe-tai-jac-uy-tin"
+                    }],
+                    "admin": [{
+                        "id": 6353,
+                        "name": "Xe Tai Jac",
+                        "slug": "xe-tai-jac",
+                        "slug_alphabet": "xetaijac",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-jac",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-jac"
+                    }, {
+                        "id": 9942,
+                        "name": "Xe Tai",
+                        "slug": "xe-tai",
+                        "slug_alphabet": "xetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai"
+                    }, {
+                        "id": 9944,
+                        "name": "Ban Xe Tai Jac",
+                        "slug": "ban-xe-tai-jac",
+                        "slug_alphabet": "banxetaijac",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-xe-tai-jac",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/ban-xe-tai-jac"
+                    }, {
+                        "id": 10587,
+                        "name": "Xe Tai Gia Re",
+                        "slug": "xe-tai-gia-re",
+                        "slug_alphabet": "xetaigiare",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-gia-re",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-gia-re"
+                    }, {
+                        "id": 10588,
+                        "name": "Mua Xe Tai",
+                        "slug": "mua-xe-tai",
+                        "slug_alphabet": "muaxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-xe-tai"
+                    }, {
+                        "id": 10589,
+                        "name": "Mua Xe Tai Gia Re",
+                        "slug": "mua-xe-tai-gia-re",
+                        "slug_alphabet": "muaxetaigiare",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-xe-tai-gia-re",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-xe-tai-gia-re"
+                    }, {
+                        "id": 30175,
+                        "name": "Mua b\u00e1n xe t\u1ea3i",
+                        "slug": "mua-ban-xe-tai",
+                        "slug_alphabet": "muabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai"
+                    }, {
+                        "id": 95383,
+                        "name": "Xe Tai Chinh Hang",
+                        "slug": "xe-tai-chinh-hang",
+                        "slug_alphabet": "xetaichinhhang",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-chinh-hang",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-chinh-hang"
+                    }, {
+                        "id": 95385,
+                        "name": "Xe Tai Chat Luong",
+                        "slug": "xe-tai-chat-luong",
+                        "slug_alphabet": "xetaichatluong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-chat-luong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-chat-luong"
+                    }, {
+                        "id": 225858,
+                        "name": "Ban Xe Tai Chinh Hang",
+                        "slug": "ban-xe-tai-chinh-hang",
+                        "slug_alphabet": "banxetaichinhhang",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-xe-tai-chinh-hang",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/ban-xe-tai-chinh-hang"
+                    }, {
+                        "id": 274605,
+                        "name": "Xe Tai Jac Re",
+                        "slug": "xe-tai-jac-re",
+                        "slug_alphabet": "xetaijacre",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-jac-re",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-jac-re"
+                    }, {
+                        "id": 393360,
+                        "name": "Gia Mua Ban Xe Tai",
+                        "slug": "gia-mua-ban-xe-tai",
+                        "slug_alphabet": "giamuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/gia-mua-ban-xe-tai"
+                    }, {
+                        "id": 393408,
+                        "name": "Mua Ban Xe Tai Moi 100%",
+                        "slug": "mua-ban-xe-tai-moi-100",
+                        "slug_alphabet": "muabanxetaimoi100",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-moi-100"
+                    }, {
+                        "id": 395797,
+                        "name": "Mua Ban Xe Tai Binh Duong",
+                        "slug": "mua-ban-xe-tai-binh-duong",
+                        "slug_alphabet": "muabanxetaibinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-binh-duong"
+                    }, {
+                        "id": 395798,
+                        "name": "Mua Ban Xe Tai Thuan An Binh Duong",
+                        "slug": "mua-ban-xe-tai-thuan-an-binh-duong",
+                        "slug_alphabet": "muabanxetaithuananbinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-thuan-an-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-thuan-an-binh-duong"
+                    }, {
+                        "id": 531837,
+                        "name": "Mua Ban Xe Tai Moi 100% Gia Re O Dau Bao Nhieu Binh Duong",
+                        "slug": "mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "slug_alphabet": "muabanxetaimoi100giareodaubaonhieubinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong"
+                    }, {
+                        "id": 543828,
+                        "name": "Can Ban \/ Dich Vu Mua Ban Xe Tai",
+                        "slug": "can-ban-dich-vu-mua-ban-xe-tai",
+                        "slug_alphabet": "canbandichvumuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/can-ban-dich-vu-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/can-ban-dich-vu-mua-ban-xe-tai"
+                    }]
+                }
+            }
+        }, {
+            "_index": "muabannhanh",
+            "_type": "product",
+            "_id": "189079",
+            "_score": 4.2475257,
+            "_source": {
+                "id": 189079,
+                "hash_id": "97e20200",
+                "name": "Chuy\u00ean B\u00e1n Hyundai Mighty Hd72 Xe Ch\u00ednh H\u00e3ng 2015,c\u00f3 Xe Giao Ngay",
+                "slug": "chuyen-ban-hyundai-mighty-hd72-xe-chinh-hang-2015-co-xe-giao-ngay",
+                "url": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/id-97e20200",
+                "default_image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_thumbnail_small_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_image": null,
+                "gallery": [],
+                "description": "K\u00edch th\u01b0\u1edbc t\u1ed5ng th\u1ec3 (D x R x C)mm:6.855 x 2.160 x 2.290\r\nK\u00edch th\u01b0\u1edbc l\u1ecdt l\u00f2ng th\u00f9ng (D x R x C)\r\nmm:5.000 x 2.030 x 390\r\nKh\u1ea3 n\u0103ng leo d\u1ed1c: 38,1%\r\nTr\u1ecdng l\u01b0\u1ee3ng b\u1ea3n th\u00e2n: 3.005kg\r\nT\u1ea3i tr\u1ecdng cho ph\u00e9p: 4.100kg\r\nTr\u1ecdng l\u01b0\u1ee3ng to\u00e0n b\u1ed9:7.300kg\r\nLo\u1ea1i \u0111\u1ed9ng c\u01a1: Diesel, 4 k\u1ef3, 4 xi-lanh th\u1eb3ng h\u00e0ng, turbo t\u0103ng \u00e1p, l\u00e0m m\u00e1t b\u1eb1ng n\u01b0\u1edbc\r\nDung t\u00edch xi lanh: 3.907cc\r\nC\u00f4ng su\u1ea5t c\u1ef1c \u0111\u1ea1i\/T\u1ed1c \u0111\u1ed9 quay:96kW(130PS)\/2900 v\u00f2ng\/ph\u00fat\r\nM\u00f4 men xo\u1eafn c\u1ef1c \u0111\u1ea1i:38 kG.m (372N.m)\/ 1800 v\u00f2ng\/ph\u00fat\r\nTi\u00eau chu\u1ea9n kh\u00ed th\u1ea3i: Euro II\r\nS\u1ed1 tay: 5 s\u1ed1 t\u1edbi, 1 s\u1ed1 l\u00f9i\r\nTh\u00f4ng s\u1ed1 l\u1edbp: 7,5\/16\r\nH\u1ec7 th\u1ed1ng treo: ph\u1ee5 thu\u1ed9c, nh\u00edp l\u00e1\r\n\u0110i\u1ec1u h\u00f2a cabin, USB,Radio\r\nCabin l\u1eadt\r\nB\u1ea3o h\u00e0nh:2 n\u0103m ho\u1eb7c 50km\r\nH\u1ed5 tr\u1ee3 vay v\u1ed1n ng\u00e2n h\u00e0ng(70% xe th\u00f9ng), \u0111\u0103ng k\u00ed, \u0111\u0103ng ki\u1ec3m.\r\nLi\u00ean h\u1ec7:  g\u1eb7p Mr Ho\u00e0ng \u0111\u1ec3 \u0111\u01b0\u1ee3c t\u01b0 v\u1ea5n",
+                "category": {
+                    "id": 311,
+                    "name": "Mua b\u00e1n xe t\u1ea3i",
+                    "slug": "mua-ban-xe-tai",
+                    "slug_alphabet": "muabanxetai",
+                    "url": "https:\/\/muabannhanh.com\/mua-ban-xe-tai"
+                },
+                "parent_category": {
+                    "id": 4,
+                    "name": "\u00d4 t\u00f4\/Xe t\u1ea3i",
+                    "slug": "4-o-to-xe-tai"
+                },
+                "price_origin": null,
+                "price": 590000000,
+                "price_sale_off": null,
+                "type": "C\u1ea7n b\u00e1n\/D\u1ecbch v\u1ee5",
+                "type_value": 1,
+                "conditions": "M\u1edbi 100%",
+                "conditions_value": 1,
+                "address": "47 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7 Qu\u1eadn B\u00ecnh Th\u1ea1nh TPHCM",
+                "province": {
+                    "id": 10,
+                    "hash_id": "0a000000",
+                    "name": "B\u00ecnh D\u01b0\u01a1ng",
+                    "slug": "binh-duong",
+                    "slug_alphabet": "binhduong",
+                    "url": "https:\/\/muabannhanh.com\/tinh-thanh\/binh-duong\/id-0a000000"
+                },
+                "district": {
+                    "id": 122,
+                    "hash_id": "7a000000",
+                    "name": "Qu\u1eadn 6",
+                    "slug": "quan-6",
+                    "slug_alphabet": "quan6",
+                    "url": "https:\/\/muabannhanh.com\/quan-huyen\/quan-6\/id-7a000000"
+                },
+                "status": "Active",
+                "status_value": 1,
+                "is_shown": 1,
+                "is_express_delivery": 0,
+                "attribute_express_delivery": null,
+                "attribute_express_delivery_slug": null,
+                "attribute_express_delivery_value": 0,
+                "quantity_max": 0,
+                "view_count": 176,
+                "created_at": "2015-12-04 19:35:37",
+                "updated_at": "2015-12-20 17:31:27",
+                "time_updated_at": 1450607487,
+                "location": {
+                    "lat": "11.5418145",
+                    "lon": "106.9094845"
+                },
+                "user": {
+                    "id": 27411,
+                    "phone": "de848c54b3ceb199f4fbc5dcdd0719cb",
+                    "phone_number": "b78f0834c0cbba019f638b62367c601a",
+                    "name": "Ms Th\u00f9y",
+                    "slug": "ms-thuy",
+                    "url": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a",
+                    "avatar_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/avatar-d.png",
+                    "cover_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/cover-d.png",
+                    "membership": "Basic",
+                    "membership_value": 21,
+                    "vip_type": 0,
+                    "location": {
+                        "lat": "11.5418145",
+                        "lon": "106.9094845"
+                    },
+                    "address": "QU\u1eacN 1, TPHCM"
+                },
+                "tag": {
+                    "user": [{
+                        "id": 494704,
+                        "name": "Xe Tai Hyundai Hd72 Thung Mui Bac Kin -",
+                        "slug": "xe-tai-hyundai-hd72-thung-mui-bac-kin",
+                        "slug_alphabet": "xetaihyundaihd72thungmuibackin",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-hyundai-hd72-thung-mui-bac-kin",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/xe-tai-hyundai-hd72-thung-mui-bac-kin"
+                    }, {
+                        "id": 494705,
+                        "name": "Hyundai Hd72 Dong Lanh",
+                        "slug": "hyundai-hd72-dong-lanh",
+                        "slug_alphabet": "hyundaihd72donglanh",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hyundai-hd72-dong-lanh",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hyundai-hd72-dong-lanh"
+                    }, {
+                        "id": 494706,
+                        "name": "Hyundai Hd72 2011 2012 2013 2014",
+                        "slug": "hyundai-hd72-2011-2012-2013-2014",
+                        "slug_alphabet": "hyundaihd722011201220132014",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hyundai-hd72-2011-2012-2013-2014",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hyundai-hd72-2011-2012-2013-2014"
+                    }, {
+                        "id": 494707,
+                        "name": "Gia Hyundai Hd72 Doi 2011 2012 2013 2014",
+                        "slug": "gia-hyundai-hd72-doi-2011-2012-2013-2014",
+                        "slug_alphabet": "giahyundaihd72doi2011201220132014",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-hyundai-hd72-doi-2011-2012-2013-2014",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/gia-hyundai-hd72-doi-2011-2012-2013-2014"
+                    }, {
+                        "id": 494708,
+                        "name": "Hyundai Hd120 Hyundai Hd65",
+                        "slug": "hyundai-hd120-hyundai-hd65",
+                        "slug_alphabet": "hyundaihd120hyundaihd65",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hyundai-hd120-hyundai-hd65",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hyundai-hd120-hyundai-hd65"
+                    }, {
+                        "id": 494709,
+                        "name": "Ban Xe Hyundai Hd65 Hd72 Hd120 Hd170 Hd260 Hd260 Hd320",
+                        "slug": "ban-xe-hyundai-hd65-hd72-hd120-hd170-hd260-hd260-hd320",
+                        "slug_alphabet": "banxehyundaihd65hd72hd120hd170hd260hd260hd320",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-xe-hyundai-hd65-hd72-hd120-hd170-hd260-hd260-hd320",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/ban-xe-hyundai-hd65-hd72-hd120-hd170-hd260-hd260-hd320"
+                    }, {
+                        "id": 494710,
+                        "name": "Ban Xe Tai Thung Kin Hyundai Tra Gop",
+                        "slug": "ban-xe-tai-thung-kin-hyundai-tra-gop",
+                        "slug_alphabet": "banxetaithungkinhyundaitragop",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-xe-tai-thung-kin-hyundai-tra-gop",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/ban-xe-tai-thung-kin-hyundai-tra-gop"
+                    }],
+                    "admin": [{
+                        "id": 393360,
+                        "name": "Gia Mua Ban Xe Tai",
+                        "slug": "gia-mua-ban-xe-tai",
+                        "slug_alphabet": "giamuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/gia-mua-ban-xe-tai"
+                    }, {
+                        "id": 393408,
+                        "name": "Mua Ban Xe Tai Moi 100%",
+                        "slug": "mua-ban-xe-tai-moi-100",
+                        "slug_alphabet": "muabanxetaimoi100",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-moi-100"
+                    }, {
+                        "id": 395797,
+                        "name": "Mua Ban Xe Tai Binh Duong",
+                        "slug": "mua-ban-xe-tai-binh-duong",
+                        "slug_alphabet": "muabanxetaibinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-binh-duong"
+                    }, {
+                        "id": 404539,
+                        "name": "Mua Ban Xe Tai Thu Dau Mot Binh Duong",
+                        "slug": "mua-ban-xe-tai-thu-dau-mot-binh-duong",
+                        "slug_alphabet": "muabanxetaithudaumotbinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-thu-dau-mot-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-thu-dau-mot-binh-duong"
+                    }, {
+                        "id": 531837,
+                        "name": "Mua Ban Xe Tai Moi 100% Gia Re O Dau Bao Nhieu Binh Duong",
+                        "slug": "mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "slug_alphabet": "muabanxetaimoi100giareodaubaonhieubinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong"
+                    }, {
+                        "id": 543828,
+                        "name": "Can Ban \/ Dich Vu Mua Ban Xe Tai",
+                        "slug": "can-ban-dich-vu-mua-ban-xe-tai",
+                        "slug_alphabet": "canbandichvumuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/can-ban-dich-vu-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/can-ban-dich-vu-mua-ban-xe-tai"
+                    }]
+                }
+            }
+        }, {
+            "_index": "muabannhanh",
+            "_type": "product",
+            "_id": "148335",
+            "_score": 4.2475257,
+            "_source": {
+                "id": 148335,
+                "hash_id": "6f430200",
+                "name": "Nh\u00e0 M\u00e1y Hino Chuy\u00ean B\u00e1n Hino Fl Th\u00f9ng K\u00edn Gi\u00e1 T\u1ed1t,h\u1ed7 Tr\u1ee3 Thu\u1ebf Tr\u01b0\u1edbc B\u1ea1",
+                "slug": "nha-may-hino-chuyen-ban-hino-fl-thung-kin-gia-tot-ho-tro-thue-truoc-ba-nha-may-hino-fl8jtsa-thung-7-8m-hino-fl8jtsl-thung-9-3m",
+                "url": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/id-6f430200",
+                "default_image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_thumbnail_small_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_image": null,
+                "gallery": [],
+                "description": "Xe t\u1ea3i HINO FL 15 t\u1ea5n hi\u1ec7u qu\u1ea3 cao v\u1ec1 ch\u1edf t\u1ea3i. T\u1ed5ng t\u1ea3i cao, t\u1ef1 tr\u1ecdng nh\u1eb9, xe t\u1ea3i Hino 15 t\u1ea5n s\u1ed1 1 cho ng\u01b0\u1eddi l\u00e1i xe. T\u0103ng m\u1ee9c \u0111\u1ed9 an to\u00e0n, m\u1ee9c \u0111\u1ed9 tin c\u1eady cao, kh\u1ea3 n\u0103ng v\u1eadn h\u00e0nh t\u1ed1t..\r\nV\u1edbi nh\u1eefng \u01b0u \u0111i\u1ec3m v\u01b0\u1ee3t tr\u1ed9i c\u1ee7a xe t\u1ea3i Hino 15,5 t\u1ea5n. Ch\u00fang t\u00f4i lu\u00f4n lu\u00f4n \u0111\u1ed3ng h\u00e0nh c\u00f9ng b\u1ea1n tr\u00ean m\u1ecdi n\u1ebbo \u0111\u01b0\u1eddng.\r\nXe t\u1ea3i HiNO 15 t\u1ea5n FL th\u00f9ng d\u00e0i l\u00e0 d\u00f2ng xe t\u1ea3i n\u1ed5i ti\u1ebfng c\u1ee7a NH\u1eacT B\u1ea2N ti\u1ebft ki\u1ec7m nhi\u00ean li\u1ec7u, \u0111\u1ed9ng c\u01a1 m\u1ea1nh m\u1ebd, tu\u1ed5i th\u1ecd cao, chi ph\u00ed s\u1eeda ch\u1eefa th\u1ea5p, nh\u01b0ng gi\u00e1 c\u1ea3 ho\u00e0n to\u00e0n c\u1ea1nh tranh so v\u1edbi d\u00f2ng xe c\u00f9ng ph\u00e2n kh\u00fac c\u1ee7a H\u00c0N QU\u1ed0C.\r\nV\u01a1\u0301i ch\u00ea\u0301 \u0111\u00f4\u0323 ba\u0309o ha\u0300nh 03 n\u0103m va\u0300 gi\u01a1\u0301i ha\u0323n 100.000 Km a\u0301p du\u0323ng cho t\u00e2\u0301t ca\u0309 ca\u0301c tro\u0323ng ta\u0309i xe, Nha\u0300 ma\u0301y Hino \u0111a\u0309m ba\u0309o ch\u00e2\u0301t l\u01b0\u01a1\u0323ng sa\u0309n ph\u00e2\u0309m mi\u0300nh \u0111em la\u0323i cho kha\u0301ch ha\u0300ng la\u0300 hoa\u0300n toa\u0300n v\u01b0\u01a1\u0323t tr\u00f4\u0323i so v\u01a1\u0301i t\u00e2\u0301t ca\u0309 ca\u0301c do\u0300ng xe hi\u00ea\u0323n co\u0301 tr\u00ean thi\u0323 tr\u01b0\u01a1\u0300ng.\r\nH\u1ed6 TR\u1ee2 MUA TR\u1ea2 G\u00d3P: Th\u1ee7 t\u1ee5c vay v\u1ed1n ng\u00e2n h\u00e0ng nhanh ng\u1ecdn, l\u00e3i su\u1ea5t th\u1ea5p, th\u1ebf ch\u1ea5p b\u1eb1ng ch\u00ednh chi\u1ebfc xe c\u1ea7n vay. Vay t\u1eeb 30 \u2013 70% gi\u00e1 tr\u1ecb xe trong v\u00f2ng 18 \u2013 36 th\u00e1ng.\r\nM\u1eccI CHI TI\u1ebeT QU\u00dd KH\u00c1CH H\u00c0NG VUI L\u00d2NG LI\u00caN H\u1ec6 HOTLINE:  G\u1eb6P MR HO\u00c0NG",
+                "category": {
+                    "id": 311,
+                    "name": "Mua b\u00e1n xe t\u1ea3i",
+                    "slug": "mua-ban-xe-tai",
+                    "slug_alphabet": "muabanxetai",
+                    "url": "https:\/\/muabannhanh.com\/mua-ban-xe-tai"
+                },
+                "parent_category": {
+                    "id": 4,
+                    "name": "\u00d4 t\u00f4\/Xe t\u1ea3i",
+                    "slug": "4-o-to-xe-tai"
+                },
+                "price_origin": null,
+                "price": 1490000000,
+                "price_sale_off": null,
+                "type": "C\u1ea7n b\u00e1n\/D\u1ecbch v\u1ee5",
+                "type_value": 1,
+                "conditions": "M\u1edbi 100%",
+                "conditions_value": 1,
+                "address": "47 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7 Qu\u1eadn B\u00ecnh Th\u1ea1nh TPHCM",
+                "province": {
+                    "id": 4,
+                    "hash_id": "04000000",
+                    "name": "B\u1ea1c Li\u00eau",
+                    "slug": "bac-lieu",
+                    "slug_alphabet": "baclieu",
+                    "url": "https:\/\/muabannhanh.com\/tinh-thanh\/bac-lieu\/id-04000000"
+                },
+                "district": {
+                    "id": 70,
+                    "hash_id": "46000000",
+                    "name": "Qu\u1eadn 11",
+                    "slug": "quan-11",
+                    "slug_alphabet": "quan11",
+                    "url": "https:\/\/muabannhanh.com\/quan-huyen\/quan-11\/id-46000000"
+                },
+                "status": "Active",
+                "status_value": 1,
+                "is_shown": 1,
+                "is_express_delivery": 0,
+                "attribute_express_delivery": null,
+                "attribute_express_delivery_slug": null,
+                "attribute_express_delivery_value": 0,
+                "quantity_max": 0,
+                "view_count": 138,
+                "created_at": "2015-11-17 10:00:59",
+                "updated_at": "2015-12-21 08:46:17",
+                "time_updated_at": 1450662377,
+                "location": {
+                    "lat": "10.7764745",
+                    "lon": "106.7008831"
+                },
+                "user": {
+                    "id": 27411,
+                    "phone": "de848c54b3ceb199f4fbc5dcdd0719cb",
+                    "phone_number": "b78f0834c0cbba019f638b62367c601a",
+                    "name": "Ms Th\u00f9y",
+                    "slug": "ms-thuy",
+                    "url": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a",
+                    "avatar_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/avatar-d.png",
+                    "cover_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/cover-d.png",
+                    "membership": "Basic",
+                    "membership_value": 21,
+                    "vip_type": 0,
+                    "location": {
+                        "lat": "10.7764745",
+                        "lon": "106.7008831"
+                    },
+                    "address": "QU\u1eacN 1, TPHCM"
+                },
+                "tag": {
+                    "user": [{
+                        "id": 9942,
+                        "name": "Xe Tai",
+                        "slug": "xe-tai",
+                        "slug_alphabet": "xetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/xe-tai"
+                    }, {
+                        "id": 102427,
+                        "name": "O To Tai",
+                        "slug": "o-to-tai",
+                        "slug_alphabet": "ototai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/o-to-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/o-to-tai"
+                    }, {
+                        "id": 155226,
+                        "name": "Hino",
+                        "slug": "hino",
+                        "slug_alphabet": "hino",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hino",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hino"
+                    }, {
+                        "id": 224836,
+                        "name": "Dai Ly Xe Tai Hino",
+                        "slug": "dai-ly-xe-tai-hino",
+                        "slug_alphabet": "dailyxetaihino",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/dai-ly-xe-tai-hino",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/dai-ly-xe-tai-hino"
+                    }, {
+                        "id": 388362,
+                        "name": "Dai Ly Hino",
+                        "slug": "dai-ly-hino",
+                        "slug_alphabet": "dailyhino",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/dai-ly-hino",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/dai-ly-hino"
+                    }, {
+                        "id": 388363,
+                        "name": "Mua Ban O To Tai Hino",
+                        "slug": "mua-ban-o-to-tai-hino",
+                        "slug_alphabet": "muabanototaihino",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-o-to-tai-hino",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-o-to-tai-hino"
+                    }, {
+                        "id": 388364,
+                        "name": "Hino 16 Tan Thung Dong Lanh",
+                        "slug": "hino-16-tan-thung-dong-lanh",
+                        "slug_alphabet": "hino16tanthungdonglanh",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hino-16-tan-thung-dong-lanh",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hino-16-tan-thung-dong-lanh"
+                    }, {
+                        "id": 388365,
+                        "name": "Hino 16 Tan Gan Cau",
+                        "slug": "hino-16-tan-gan-cau",
+                        "slug_alphabet": "hino16tangancau",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hino-16-tan-gan-cau",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hino-16-tan-gan-cau"
+                    }, {
+                        "id": 388366,
+                        "name": "Xe Tai Hino 16 Tan Ben",
+                        "slug": "xe-tai-hino-16-tan-ben",
+                        "slug_alphabet": "xetaihino16tanben",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-hino-16-tan-ben",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/xe-tai-hino-16-tan-ben"
+                    }],
+                    "admin": [{
+                        "id": 393360,
+                        "name": "Gia Mua Ban Xe Tai",
+                        "slug": "gia-mua-ban-xe-tai",
+                        "slug_alphabet": "giamuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/gia-mua-ban-xe-tai"
+                    }, {
+                        "id": 393408,
+                        "name": "Mua Ban Xe Tai Moi 100%",
+                        "slug": "mua-ban-xe-tai-moi-100",
+                        "slug_alphabet": "muabanxetaimoi100",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-moi-100"
+                    }, {
+                        "id": 413107,
+                        "name": "Mua Ban Xe Tai Bac Lieu",
+                        "slug": "mua-ban-xe-tai-bac-lieu",
+                        "slug_alphabet": "muabanxetaibaclieu",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-bac-lieu",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-bac-lieu"
+                    }, {
+                        "id": 458070,
+                        "name": "Mua Ban Xe Tai Hong Dan Bac Lieu",
+                        "slug": "mua-ban-xe-tai-hong-dan-bac-lieu",
+                        "slug_alphabet": "muabanxetaihongdanbaclieu",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-hong-dan-bac-lieu",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-hong-dan-bac-lieu"
+                    }, {
+                        "id": 532413,
+                        "name": "Mua Ban Xe Tai Moi 100% Gia Re O Dau Bao Nhieu Bac Lieu",
+                        "slug": "mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-bac-lieu",
+                        "slug_alphabet": "muabanxetaimoi100giareodaubaonhieubaclieu",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-bac-lieu",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-bac-lieu"
+                    }, {
+                        "id": 543828,
+                        "name": "Can Ban \/ Dich Vu Mua Ban Xe Tai",
+                        "slug": "can-ban-dich-vu-mua-ban-xe-tai",
+                        "slug_alphabet": "canbandichvumuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/can-ban-dich-vu-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/can-ban-dich-vu-mua-ban-xe-tai"
+                    }]
+                }
+            }
+        }, {
+            "_index": "muabannhanh",
+            "_type": "product",
+            "_id": "208352",
+            "_score": 4.2475257,
+            "_source": {
+                "id": 208352,
+                "hash_id": "e02d0300",
+                "name": "Nh\u00e0 M\u00e1y Xe T\u1ea3i Hyundai Hd98 5.6T, Gi\u00e1 T\u1ed1t, Ch\u1ea5t L\u01b0\u1ee3ng V\u01b0\u1ee3t Tr\u1ed9i",
+                "slug": "nha-may-xe-tai-hyundai-hd98-5-6t-gia-tot-chat-luong-vuot-troi",
+                "url": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/id-e02d0300",
+                "default_image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_thumbnail_small_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_image": null,
+                "gallery": [],
+                "description": "C\u00d4NG TY \u00d4 T\u00d4 MI\u1ec0N NAM chuy\u00ean cung c\u1ea5p v\u00e0 ph\u00e2n ph\u1ed1i s\u1ea3n ph\u1ea9m Hyundai chuy\u00ean cung c\u00e2\u0301p c\u00e1c d\u00f2ng xe t\u1ea3i, nh\u1eadp kh\u1ea9u nguy\u00ean chi\u1ebfc h\u00e0n qu\u1ed1c,v\u00e0 xe t\u1ea3i nh\u1eadp kh\u1ea9u linh ki\u1ec7n 3 c\u1ee5c (CKD) l\u1eafp r\u00e1p t\u1ea1i Vi\u1ec7t Nam .v\u1edbi gi\u00e1 th\u00e0nh l\u00e0 \u0111\u1ea1i l\u00fd c\u1ea5p 1 ch\u00ednh th\u1ee9c c\u1ee7a nh\u00e0 m\u00e1y Hyundai vi\u1ec7t nam.Ch\u1ea5t l\u01b0\u1ee3ng nh\u1eadp kh\u1ea9u uy t\u00edn\r\n\u2022 C\u00e1c d\u00f2ng xe t\u1ea3i c\u1ee7a ch\u00fang t\u00f4i\r\n\u2022 Xe t\u1ea3i Hyundai 1,75 t\u1ea5n th\u00f9ng k\u00edn.v\u00e0o \u0111\u01b0\u1ee3c th\u00e0nh ph\u1ed1\r\n\u2022 Xe t\u1ea3i Hyundai 1,75 t\u1ea5n th\u00f9ng mui b\u1ea1t v\u00e0o \u0111\u01b0\u1ee3c th\u00e0nh ph\u1ed1\r\n\u2022 Xe t\u1ea3i Hyundai hd65 2,5 t\u1ea5n .th\u00f9ng b\u1ea1t,th\u00f9ng k\u00edn\r\n\u2022 Xe t\u1ea3i Hyundai hd72 3,5 t\u1ea5n. th\u00f9ng b\u1ea1t,th\u00f9ng k\u00edn\r\n\u2022 Xe t\u1ea3i Hyundai hd65 2,5 t\u1ea5n -hd72 3,1 t\u1ea5n \u0111\u00f4ng l\u1ea1nh nh\u1eadp kh\u1ea9u\r\n\u2022 Xe t\u1ea3i hyundai hd78 4,5 t\u1ea5n phun d\u1ea7u \u0111i\u1ec7n t\u1eed \r\nC\u00e1c D\u00f2ng XeT\u1ea3iT\u1eeb: 1,25 T\u1ea5n \u0110\u1ebfn 19 T\u1ea5n\r\nXe t\u1ea3i Hyundai HD78,HD85,HD98,HD98S, HD120, HD170, HD210, HD250,HD260, HD270HD 310, HD320,\r\n\u0110\u1ea7u K\u00e9o :HD700,HD 1000\r\nXe t\u1ea3i Hyundai HD65 .HD72 Ben Nh\u1eadp Kh\u1ea9u Nguy\u00ean Chi\u1ebfc \u00d4 t\u00f4\r\n\u2022 C\u00f3 4 lo\u1ea1i th\u00f9ng: xe t\u1ea3i th\u00f9ng k\u00edn \r\n\u2022 xe t\u1ea3i th\u00f9ng b\u1ea1t\r\n\u2022 xe t\u1ea3i th\u00f9ng \u0111\u00f4ng l\u1ea1nh nh\u1eadp kh\u1ea9u \r\n\u2022 xe t\u1ea3i th\u00f9ng l\u1eedng\r\nNh\u1eadn \u0111\u00f3ng T\u1ea5t C\u1ea3 C\u00e1c Lo\u1ea1i th\u00f9ng",
+                "category": {
+                    "id": 311,
+                    "name": "Mua b\u00e1n xe t\u1ea3i",
+                    "slug": "mua-ban-xe-tai",
+                    "slug_alphabet": "muabanxetai",
+                    "url": "https:\/\/muabannhanh.com\/mua-ban-xe-tai"
+                },
+                "parent_category": {
+                    "id": 4,
+                    "name": "\u00d4 t\u00f4\/Xe t\u1ea3i",
+                    "slug": "4-o-to-xe-tai"
+                },
+                "price_origin": null,
+                "price": 630000000,
+                "price_sale_off": null,
+                "type": "C\u1ea7n b\u00e1n\/D\u1ecbch v\u1ee5",
+                "type_value": 1,
+                "conditions": "M\u1edbi 100%",
+                "conditions_value": 1,
+                "address": "QU\u1eacN 1, TPHCM",
+                "province": {
+                    "id": 10,
+                    "hash_id": "0a000000",
+                    "name": "B\u00ecnh D\u01b0\u01a1ng",
+                    "slug": "binh-duong",
+                    "slug_alphabet": "binhduong",
+                    "url": "https:\/\/muabannhanh.com\/tinh-thanh\/binh-duong\/id-0a000000"
+                },
+                "district": {
+                    "id": 122,
+                    "hash_id": "7a000000",
+                    "name": "Qu\u1eadn 6",
+                    "slug": "quan-6",
+                    "slug_alphabet": "quan6",
+                    "url": "https:\/\/muabannhanh.com\/quan-huyen\/quan-6\/id-7a000000"
+                },
+                "status": "Active",
+                "status_value": 1,
+                "is_shown": 1,
+                "is_express_delivery": 0,
+                "attribute_express_delivery": null,
+                "attribute_express_delivery_slug": null,
+                "attribute_express_delivery_value": 0,
+                "quantity_max": 0,
+                "view_count": 130,
+                "created_at": "2015-12-15 22:57:35",
+                "updated_at": "2015-12-20 17:39:17",
+                "time_updated_at": 1450607957,
+                "location": {
+                    "lat": "11.5418145",
+                    "lon": "106.9094845"
+                },
+                "user": {
+                    "id": 27411,
+                    "phone": "de848c54b3ceb199f4fbc5dcdd0719cb",
+                    "phone_number": "b78f0834c0cbba019f638b62367c601a",
+                    "name": "Ms Th\u00f9y",
+                    "slug": "ms-thuy",
+                    "url": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a",
+                    "avatar_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/avatar-d.png",
+                    "cover_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/cover-d.png",
+                    "membership": "Basic",
+                    "membership_value": 21,
+                    "vip_type": 0,
+                    "location": {
+                        "lat": "11.5418145",
+                        "lon": "106.9094845"
+                    },
+                    "address": "QU\u1eacN 1, TPHCM"
+                },
+                "tag": {
+                    "user": [{
+                        "id": 225482,
+                        "name": "8 Tan",
+                        "slug": "8-tan",
+                        "slug_alphabet": "8tan",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/8-tan",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/8-tan"
+                    }, {
+                        "id": 281148,
+                        "name": "Gia Xe Tai Hyundai",
+                        "slug": "gia-xe-tai-hyundai",
+                        "slug_alphabet": "giaxetaihyundai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-xe-tai-hyundai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/gia-xe-tai-hyundai"
+                    }, {
+                        "id": 341854,
+                        "name": "Hyundai Hd78 Thung Kin",
+                        "slug": "hyundai-hd78-thung-kin",
+                        "slug_alphabet": "hyundaihd78thungkin",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hyundai-hd78-thung-kin",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hyundai-hd78-thung-kin"
+                    }, {
+                        "id": 341857,
+                        "name": "Dai Ly Xe Tai Hyundai",
+                        "slug": "dai-ly-xe-tai-hyundai",
+                        "slug_alphabet": "dailyxetaihyundai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/dai-ly-xe-tai-hyundai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/dai-ly-xe-tai-hyundai"
+                    }, {
+                        "id": 366396,
+                        "name": "Hyundai Thung Mui Bat",
+                        "slug": "hyundai-thung-mui-bat",
+                        "slug_alphabet": "hyundaithungmuibat",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hyundai-thung-mui-bat",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hyundai-thung-mui-bat"
+                    }, {
+                        "id": 445153,
+                        "name": "Hyundai 4.5 Tan",
+                        "slug": "hyundai-4-5-tan",
+                        "slug_alphabet": "hyundai45tan",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hyundai-4-5-tan",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hyundai-4-5-tan"
+                    }, {
+                        "id": 488735,
+                        "name": "Hyundai 4500 Kg",
+                        "slug": "hyundai-4500-kg",
+                        "slug_alphabet": "hyundai4500kg",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hyundai-4500-kg",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hyundai-4500-kg"
+                    }, {
+                        "id": 488736,
+                        "name": "Hyundai 7",
+                        "slug": "hyundai-7",
+                        "slug_alphabet": "hyundai7",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hyundai-7",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hyundai-7"
+                    }, {
+                        "id": 488737,
+                        "name": "Hyundai Hd78 Chassis",
+                        "slug": "hyundai-hd78-chassis",
+                        "slug_alphabet": "hyundaihd78chassis",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/hyundai-hd78-chassis",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/hyundai-hd78-chassis"
+                    }],
+                    "admin": [{
+                        "id": 393360,
+                        "name": "Gia Mua Ban Xe Tai",
+                        "slug": "gia-mua-ban-xe-tai",
+                        "slug_alphabet": "giamuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/gia-mua-ban-xe-tai"
+                    }, {
+                        "id": 393408,
+                        "name": "Mua Ban Xe Tai Moi 100%",
+                        "slug": "mua-ban-xe-tai-moi-100",
+                        "slug_alphabet": "muabanxetaimoi100",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-moi-100"
+                    }, {
+                        "id": 395797,
+                        "name": "Mua Ban Xe Tai Binh Duong",
+                        "slug": "mua-ban-xe-tai-binh-duong",
+                        "slug_alphabet": "muabanxetaibinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-binh-duong"
+                    }, {
+                        "id": 404539,
+                        "name": "Mua Ban Xe Tai Thu Dau Mot Binh Duong",
+                        "slug": "mua-ban-xe-tai-thu-dau-mot-binh-duong",
+                        "slug_alphabet": "muabanxetaithudaumotbinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-thu-dau-mot-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-thu-dau-mot-binh-duong"
+                    }, {
+                        "id": 531837,
+                        "name": "Mua Ban Xe Tai Moi 100% Gia Re O Dau Bao Nhieu Binh Duong",
+                        "slug": "mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "slug_alphabet": "muabanxetaimoi100giareodaubaonhieubinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong"
+                    }, {
+                        "id": 543828,
+                        "name": "Can Ban \/ Dich Vu Mua Ban Xe Tai",
+                        "slug": "can-ban-dich-vu-mua-ban-xe-tai",
+                        "slug_alphabet": "canbandichvumuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/can-ban-dich-vu-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/can-ban-dich-vu-mua-ban-xe-tai"
+                    }]
+                }
+            }
+        }, {
+            "_index": "muabannhanh",
+            "_type": "product",
+            "_id": "163363",
+            "_score": 4.2475257,
+            "_source": {
+                "id": 163363,
+                "hash_id": "237e0200",
+                "name": "B\u00e1n Xe T\u1ea3i Kamaz Nga 2015, Kamaz 65115 15 T\u1ea5n Th\u00f9ng Vu\u00f4ng,kamaz 13 T\u1ea5n, Kamaz 20 T\u1ea5n",
+                "slug": "ban-xe-tai-kamaz-nga-2015-kamaz-65115-15-tan-thung-vuong-kamaz-13-tan-kamaz-20-tan",
+                "url": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/id-237e0200",
+                "default_image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_thumbnail_small_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/no_image.gif",
+                "default_image": null,
+                "gallery": [],
+                "description": "C\u00f4ng th\u1ee9c b\u00e1nh xe \t6x4\r\nT\u1ef1 tr\u1ecdng, Kg\t8895\r\nT\u1ea3i tr\u1ecdng cho ph\u00e9p\t15000\r\nT\u1ed5ng tr\u1ecdng l\u01b0\u1ee3ng xe v\u00e0 h\u00e0ng h\u00f3a, Kg\t23895\r\nChi\u1ec1u d\u00e0i c\u01a1 s\u1edf, mm\t2840 or 3190\r\nK\u00edch th\u01b0\u1edbc t\u1ed5ng th\u1ec3 (DxRxC), mm\t-\r\n\u0110\u1ed9ng c\u01a1, Model\t KAMAZ 740.30\r\nLo\u1ea1i \tDiesel, turbocharged, R6\r\nC\u00f4ng su\u1ea5t \u0111\u1ed9ng c\u01a1 (Hores power), Kw (Hp)\t176 (240)\r\nDung t\u00edch l\u00e0m vi\u1ec7c c\u1ee7a c\u00e1c xi lanh, cm3\t10850\r\nV\u1eadn t\u1ed1c l\u1edbn nh\u1ea5t khi to\u00e0n t\u1ea3i, Km\/h\t180 kW\/ 2000 v\/ph\r\nH\u1ed9p s\u1ed1\tKAMAZ 142",
+                "category": {
+                    "id": 311,
+                    "name": "Mua b\u00e1n xe t\u1ea3i",
+                    "slug": "mua-ban-xe-tai",
+                    "slug_alphabet": "muabanxetai",
+                    "url": "https:\/\/muabannhanh.com\/mua-ban-xe-tai"
+                },
+                "parent_category": {
+                    "id": 4,
+                    "name": "\u00d4 t\u00f4\/Xe t\u1ea3i",
+                    "slug": "4-o-to-xe-tai"
+                },
+                "price_origin": null,
+                "price": 1350000000,
+                "price_sale_off": null,
+                "type": "C\u1ea7n b\u00e1n\/D\u1ecbch v\u1ee5",
+                "type_value": 1,
+                "conditions": "M\u1edbi 100%",
+                "conditions_value": 1,
+                "address": "47 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7 Qu\u1eadn B\u00ecnh Th\u1ea1nh TPHCM",
+                "province": {
+                    "id": 5,
+                    "hash_id": "05000000",
+                    "name": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
+                    "slug": "ba-ria-vung-tau",
+                    "slug_alphabet": "bariavungtau",
+                    "url": "https:\/\/muabannhanh.com\/tinh-thanh\/ba-ria-vung-tau\/id-05000000"
+                },
+                "district": {
+                    "id": 79,
+                    "hash_id": "4f000000",
+                    "name": "Qu\u1eadn 12",
+                    "slug": "quan-12",
+                    "slug_alphabet": "quan12",
+                    "url": "https:\/\/muabannhanh.com\/quan-huyen\/quan-12\/id-4f000000"
+                },
+                "status": "Active",
+                "status_value": 1,
+                "is_shown": 1,
+                "is_express_delivery": 0,
+                "attribute_express_delivery": null,
+                "attribute_express_delivery_slug": null,
+                "attribute_express_delivery_value": 0,
+                "quantity_max": 0,
+                "view_count": 125,
+                "created_at": "2015-11-24 08:56:06",
+                "updated_at": "2015-12-21 13:46:58",
+                "time_updated_at": 1450680418,
+                "location": {
+                    "lat": "11.5418145",
+                    "lon": "106.9094845"
+                },
+                "user": {
+                    "id": 27411,
+                    "phone": "de848c54b3ceb199f4fbc5dcdd0719cb",
+                    "phone_number": "b78f0834c0cbba019f638b62367c601a",
+                    "name": "Ms Th\u00f9y",
+                    "slug": "ms-thuy",
+                    "url": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a",
+                    "avatar_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/avatar-d.png",
+                    "cover_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/cover-d.png",
+                    "membership": "Basic",
+                    "membership_value": 21,
+                    "vip_type": 0,
+                    "location": {
+                        "lat": "11.5418145",
+                        "lon": "106.9094845"
+                    },
+                    "address": "QU\u1eacN 1, TPHCM"
+                },
+                "tag": {
+                    "user": [{
+                        "id": 10218,
+                        "name": "Mua Ban O To",
+                        "slug": "mua-ban-o-to",
+                        "slug_alphabet": "muabanoto",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-o-to",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-o-to"
+                    }, {
+                        "id": 102834,
+                        "name": "Ban O To Chevrolet Spark",
+                        "slug": "ban-o-to-chevrolet-spark",
+                        "slug_alphabet": "banotochevroletspark",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-o-to-chevrolet-spark",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/ban-o-to-chevrolet-spark"
+                    }, {
+                        "id": 453515,
+                        "name": "Ranger Nhap Khau",
+                        "slug": "ranger-nhap-khau",
+                        "slug_alphabet": "rangernhapkhau",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ranger-nhap-khau",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/ranger-nhap-khau"
+                    }, {
+                        "id": 453516,
+                        "name": "Mua Ban Hd250 Nhap Xe Tai Hyundai",
+                        "slug": "mua-ban-hd250-nhap-xe-tai-hyundai",
+                        "slug_alphabet": "muabanhd250nhapxetaihyundai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-hd250-nhap-xe-tai-hyundai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-hd250-nhap-xe-tai-hyundai"
+                    }, {
+                        "id": 453614,
+                        "name": "Xe O To Ban Tai",
+                        "slug": "xe-o-to-ban-tai",
+                        "slug_alphabet": "xeotobantai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-o-to-ban-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/xe-o-to-ban-tai"
+                    }, {
+                        "id": 453615,
+                        "name": "Oto Ford Ranger",
+                        "slug": "oto-ford-ranger",
+                        "slug_alphabet": "otofordranger",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/oto-ford-ranger",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/oto-ford-ranger"
+                    }, {
+                        "id": 453616,
+                        "name": "Tong Dai Ly Cung Cap Cac Dong Xe Khach Tai Viet Nam Cua Cac Don Vi Samco",
+                        "slug": "tong-dai-ly-cung-cap-cac-dong-xe-khach-tai-viet-nam-cua-cac-don-vi-samco",
+                        "slug_alphabet": "tongdailycungcapcacdongxekhachtaivietnamcuacacdonvisamco",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/tong-dai-ly-cung-cap-cac-dong-xe-khach-tai-viet-nam-cua-cac-don-vi-samco",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/tong-dai-ly-cung-cap-cac-dong-xe-khach-tai-viet-nam-cua-cac-don-vi-samco"
+                    }, {
+                        "id": 453617,
+                        "name": "Bang Gia Land Rover",
+                        "slug": "bang-gia-land-rover",
+                        "slug_alphabet": "banggialandrover",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/bang-gia-land-rover",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/bang-gia-land-rover"
+                    }, {
+                        "id": 454175,
+                        "name": "Xe Chua Chay Hino",
+                        "slug": "xe-chua-chay-hino",
+                        "slug_alphabet": "xechuachayhino",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-chua-chay-hino",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/xe-chua-chay-hino"
+                    }, {
+                        "id": 454176,
+                        "name": "Gia Xe Khach Daewoo Fx120",
+                        "slug": "gia-xe-khach-daewoo-fx120",
+                        "slug_alphabet": "giaxekhachdaewoofx120",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-xe-khach-daewoo-fx120",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/gia-xe-khach-daewoo-fx120"
+                    }],
+                    "admin": [{
+                        "id": 393360,
+                        "name": "Gia Mua Ban Xe Tai",
+                        "slug": "gia-mua-ban-xe-tai",
+                        "slug_alphabet": "giamuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/gia-mua-ban-xe-tai"
+                    }, {
+                        "id": 393408,
+                        "name": "Mua Ban Xe Tai Moi 100%",
+                        "slug": "mua-ban-xe-tai-moi-100",
+                        "slug_alphabet": "muabanxetaimoi100",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-moi-100"
+                    }, {
+                        "id": 405933,
+                        "name": "Mua Ban Xe Tai Ba Ria-Vung Tau",
+                        "slug": "mua-ban-xe-tai-ba-ria-vung-tau",
+                        "slug_alphabet": "muabanxetaibariavungtau",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-ba-ria-vung-tau",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-ba-ria-vung-tau"
+                    }, {
+                        "id": 421177,
+                        "name": "Mua Ban Xe Tai Vung Tau Ba Ria-Vung Tau",
+                        "slug": "mua-ban-xe-tai-vung-tau-ba-ria-vung-tau",
+                        "slug_alphabet": "muabanxetaivungtaubariavungtau",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-vung-tau-ba-ria-vung-tau",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-vung-tau-ba-ria-vung-tau"
+                    }, {
+                        "id": 532794,
+                        "name": "Mua Ban Xe Tai Moi 100% Gia Re O Dau Bao Nhieu Ba Ria-Vung Tau",
+                        "slug": "mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-ba-ria-vung-tau",
+                        "slug_alphabet": "muabanxetaimoi100giareodaubaonhieubariavungtau",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-ba-ria-vung-tau",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-ba-ria-vung-tau"
+                    }, {
+                        "id": 543828,
+                        "name": "Can Ban \/ Dich Vu Mua Ban Xe Tai",
+                        "slug": "can-ban-dich-vu-mua-ban-xe-tai",
+                        "slug_alphabet": "canbandichvumuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/can-ban-dich-vu-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/b78f0834c0cbba019f638b62367c601a\/l\/can-ban-dich-vu-mua-ban-xe-tai"
+                    }]
+                }
+            }
+        }, {
+            "_index": "muabannhanh",
+            "_type": "product",
+            "_id": "52875",
+            "_score": 4.2475257,
+            "_source": {
+                "id": 52875,
+                "hash_id": "8bce0000",
+                "name": "Xe t\u1ea3i Veam Vt490 4.99 t\u1ea5n\/4T99\/5 t\u1ea5n \u0111\u1ea1i l\u00fd xe t\u1ea3i veam",
+                "slug": "xe-tai-veam-vt490-4-99-tan-4t99-5-tan-dai-ly-xe-tai-veam",
+                "url": "https:\/\/muabannhanh.com\/0938677792\/id-8bce0000",
+                "default_image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/08\/55cd5be5baf99_1439521765.jpg",
+                "default_thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/08\/55cd5be5baf99_1439521765.jpg",
+                "default_thumbnail_small_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail-small\/2015\/08\/55cd5be5baf99_1439521765.jpg",
+                "default_image": "2015\/08\/55cd5be5baf99_1439521765.jpg",
+                "gallery": [{
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/08\/55cd5be5baf99_1439521765.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/08\/55cd5be5baf99_1439521765.jpg",
+                    "image": "2015\/08\/55cd5be5baf99_1439521765.jpg",
+                    "caption": "Xe t\u1ea3i vt490 t\u1ea3i tr\u1ecdng 4.9 t\u1ea5n"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/08\/55cd5be939424_1439521769.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/08\/55cd5be939424_1439521769.jpg",
+                    "image": "2015\/08\/55cd5be939424_1439521769.jpg",
+                    "caption": "Xe t\u1ea3i vt490 t\u1ea3i tr\u1ecdng 4.9* t\u1ea5n"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/08\/55cd5bec3ed15_1439521772.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/08\/55cd5bec3ed15_1439521772.jpg",
+                    "image": "2015\/08\/55cd5bec3ed15_1439521772.jpg",
+                    "caption": "Xe t\u1ea3i vt490 t\u1ea3i tr\u1ecdng 4.9t\u1ea5n"
+                }],
+                "description": "***Th\u00f4ng s\u1ed1 k\u1ef9 thu\u1eadt xe t\u1ea3i Veam Vt490 4.99 t\u1ea5n\/4T99\/5 t\u1ea5n:\r\nTr\u1ecdng l\u01b0\u1ee3ng b\u1ea3n th\u00e2n (Kg)\u2026\u2026 3925\r\nT\u1ea3i tr\u1ecdng cho ph\u00e9p (Kg)\u2026\u2026\u2026..4990\r\nS\u1ed1 ng\u01b0\u1eddi cho ph\u00e9p\u2026\u2026\u2026\u2026\u2026\u2026. 3 ng\u01b0\u1eddi\r\nK\u00edch th\u01b0\u1edbc bao: (mm)\u2026\u2026\u2026\u20267990 X 2230 X 3340\r\nK\u00edch th\u01b0\u1edbc l\u00f2ng th\u00f9ng: (mm)\u2026\u2026.6035 X 2035 X 1870\r\nChi\u1ec1u d\u00e0i c\u01a1 s\u1edf (mm)\u2026\u2026\u2026. 4500\r\nC\u00f4ng th\u1ee9c b\u00e1nh xe\u2026\u2026\u2026\u2026. 4 X 2\r\nLy h\u1ee3p \u2026\u2026\u2026\u2026\u2026\u2026\u2026H\u00e0n Qu\u1ed1c, 1 \u0110\u0129a ma s\u00e1t kh\u00f4, d\u1eabn \u0111\u1ed9ng thu\u1ef7 l\u1ef1c.\r\nH\u1ed9p s\u1ed1 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026H\u00e0n Qu\u1ed1c, c\u01a1 kh\u00ed, 5 s\u1ed1 ti\u1ebfn, 1 s\u1ed1 l\u00f9i\r\nC\u1ea7u ch\u1ee7 \u0111\u1ed9ng\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. H\u00e0n Qu\u1ed1c, c\u1ea7u sau\r\nCabin:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. \u0110\u01a1n \u2013 ki\u1ec3u l\u1eadt\r\nNh\u00e3n hi\u1ec7u \u0111\u1ed9ng c\u01a1\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Hyundai D4BD\r\nLo\u1ea1i \u0111\u1ed9ng c\u01a1\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u20264 K\u1ef3, 4 xy-lanh th\u1eb3ng h\u00e0ng\r\nDung t\u00edch xy-lanh (CC)\u2026\u2026\u2026\u2026\u2026..3.907\r\nC\u00f4ng su\u1ea5t c\u1ef1c \u0111\u1ea1i (PS\/rpm)\u2026\u2026\u2026\u2026130\/2900\r\nTi\u00eau chu\u1ea9n kh\u00ed x\u1ea3\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. EURO II\r\nH\u1ec7 th\u1ed1ng l\u00e1i\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026Tr\u1ee5c v\u00edt \u2013 \u00ea cu bi \/ Tr\u1ee3 l\u1ef1c thu\u1ef7 l\u1ef1c\r\nH\u1ec7 th\u1ed1ng phanh:\u2026\u2026\u2026\u2026\u2026\u2026.Phanh tr\u01b0\u1edbc\/sau: Phanh thu\u1ef7 l\u1ef1c, c\u00f3 tr\u1ee3 l\u1ef1c\r\nPhanh \u0111\u1ed7\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.C\u01a1 kh\u00ed, t\u00e1c d\u1ee5ng l\u00ean tr\u1ee5c th\u1ee9 c\u1ea5p c\u1ee7a h\u1ed9p s\u1ed1\r\nS\u1ed1 l\u1ed1p tr\u00ean tr\u1ee5c: I\/II\/d\u1ef1 ph\u00f2ng\u2026\u2026..02\/04\/02\r\nC\u1ee1 l\u1ed1p: I\/II\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.7.50 \u2013 16\/8.25 \u2013 16",
+                "category": {
+                    "id": 311,
+                    "name": "Mua b\u00e1n xe t\u1ea3i",
+                    "slug": "mua-ban-xe-tai",
+                    "slug_alphabet": "muabanxetai",
+                    "url": "https:\/\/muabannhanh.com\/mua-ban-xe-tai"
+                },
+                "parent_category": {
+                    "id": 4,
+                    "name": "\u00d4 t\u00f4\/Xe t\u1ea3i",
+                    "slug": "4-o-to-xe-tai"
+                },
+                "price_origin": null,
+                "price": null,
+                "price_sale_off": null,
+                "type": "C\u1ea7n b\u00e1n\/D\u1ecbch v\u1ee5",
+                "type_value": 1,
+                "conditions": "M\u1edbi 100%",
+                "conditions_value": 1,
+                "address": "10\/9 QL13 - Khu Ph\u1ed1 T\u00e2y - Ph\u01b0\u1eddng V\u0129nh Ph\u00fa - Thu\u1eadn An - B\u00ecnh D\u01b0\u01a1ng",
+                "province": {
+                    "id": 10,
+                    "hash_id": "0a000000",
+                    "name": "B\u00ecnh D\u01b0\u01a1ng",
+                    "slug": "binh-duong",
+                    "slug_alphabet": "binhduong",
+                    "url": "https:\/\/muabannhanh.com\/tinh-thanh\/binh-duong\/id-0a000000"
+                },
+                "district": {
+                    "id": 123,
+                    "hash_id": "7b000000",
+                    "name": "Qu\u1eadn 6",
+                    "slug": "quan-6",
+                    "slug_alphabet": "quan6",
+                    "url": "https:\/\/muabannhanh.com\/quan-huyen\/quan-6\/id-7b000000"
+                },
+                "status": "Active",
+                "status_value": 1,
+                "is_shown": 1,
+                "is_express_delivery": 0,
+                "attribute_express_delivery": null,
+                "attribute_express_delivery_slug": null,
+                "attribute_express_delivery_value": 0,
+                "quantity_max": 0,
+                "view_count": 593,
+                "created_at": "2015-08-13 06:11:58",
+                "updated_at": "2016-01-25 02:23:20",
+                "time_updated_at": 1453663400,
+                "location": {
+                    "lat": "11.5418145",
+                    "lon": "106.9094845"
+                },
+                "user": {
+                    "id": 9142,
+                    "phone": "0938 677 792",
+                    "phone_number": "0938677792",
+                    "name": "Nguy\u1ec5n Trung C\u01b0\u1eddng",
+                    "slug": "nguyen-trung-cuong",
+                    "url": "https:\/\/muabannhanh.com\/0938677792",
+                    "avatar_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/avatar\/2015\/07\/55b9a0baedbf1_1438228666.jpg",
+                    "cover_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/cover\/2015\/07\/55b9a0f69f331_1438228726.jpg",
+                    "membership": "Basic",
+                    "membership_value": 21,
+                    "vip_type": 0,
+                    "location": {
+                        "lat": "11.5418145",
+                        "lon": "106.9094845"
+                    },
+                    "address": "10\/9 QL13 - Khu Ph\u1ed1 T\u00e2y - Ph\u01b0\u1eddng V\u0129nh Ph\u00fa - Thu\u1eadn An - B\u00ecnh D\u01b0\u01a1ng"
+                },
+                "tag": {
+                    "user": [{
+                        "id": 213811,
+                        "name": "Mua Xe Tai Veam Vt490",
+                        "slug": "mua-xe-tai-veam-vt490",
+                        "slug_alphabet": "muaxetaiveamvt490",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-xe-tai-veam-vt490",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-xe-tai-veam-vt490"
+                    }, {
+                        "id": 213812,
+                        "name": "Mua Xe 4.9 Tan Gia Re",
+                        "slug": "mua-xe-4-9-tan-gia-re",
+                        "slug_alphabet": "muaxe49tangiare",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-xe-4-9-tan-gia-re",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-xe-4-9-tan-gia-re"
+                    }],
+                    "admin": [{
+                        "id": 9942,
+                        "name": "Xe Tai",
+                        "slug": "xe-tai",
+                        "slug_alphabet": "xetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai"
+                    }, {
+                        "id": 9945,
+                        "name": "Ban Xe Tai",
+                        "slug": "ban-xe-tai",
+                        "slug_alphabet": "banxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/ban-xe-tai"
+                    }, {
+                        "id": 10587,
+                        "name": "Xe Tai Gia Re",
+                        "slug": "xe-tai-gia-re",
+                        "slug_alphabet": "xetaigiare",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-gia-re",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-gia-re"
+                    }, {
+                        "id": 10595,
+                        "name": "Xe Tai Tra Gop",
+                        "slug": "xe-tai-tra-gop",
+                        "slug_alphabet": "xetaitragop",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-tra-gop",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-tra-gop"
+                    }, {
+                        "id": 11225,
+                        "name": "Ban Xe Tai Gia Re",
+                        "slug": "ban-xe-tai-gia-re",
+                        "slug_alphabet": "banxetaigiare",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-xe-tai-gia-re",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/ban-xe-tai-gia-re"
+                    }, {
+                        "id": 30201,
+                        "name": "Ban Xe Tai Chat Luong",
+                        "slug": "ban-xe-tai-chat-luong",
+                        "slug_alphabet": "banxetaichatluong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-xe-tai-chat-luong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/ban-xe-tai-chat-luong"
+                    }, {
+                        "id": 30202,
+                        "name": "Ban Xe Tai Uy Tin",
+                        "slug": "ban-xe-tai-uy-tin",
+                        "slug_alphabet": "banxetaiuytin",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-xe-tai-uy-tin",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/ban-xe-tai-uy-tin"
+                    }, {
+                        "id": 91678,
+                        "name": "Xe Tai Doi Moi",
+                        "slug": "xe-tai-doi-moi",
+                        "slug_alphabet": "xetaidoimoi",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-doi-moi",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-doi-moi"
+                    }, {
+                        "id": 91679,
+                        "name": "Xe Tai Gia Soc",
+                        "slug": "xe-tai-gia-soc",
+                        "slug_alphabet": "xetaigiasoc",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-gia-soc",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-gia-soc"
+                    }, {
+                        "id": 91680,
+                        "name": "Xe Tai Gia Re Hcm",
+                        "slug": "xe-tai-gia-re-hcm",
+                        "slug_alphabet": "xetaigiarehcm",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-gia-re-hcm",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-gia-re-hcm"
+                    }, {
+                        "id": 393360,
+                        "name": "Gia Mua Ban Xe Tai",
+                        "slug": "gia-mua-ban-xe-tai",
+                        "slug_alphabet": "giamuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/gia-mua-ban-xe-tai"
+                    }, {
+                        "id": 393408,
+                        "name": "Mua Ban Xe Tai Moi 100%",
+                        "slug": "mua-ban-xe-tai-moi-100",
+                        "slug_alphabet": "muabanxetaimoi100",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-moi-100"
+                    }, {
+                        "id": 395797,
+                        "name": "Mua Ban Xe Tai Binh Duong",
+                        "slug": "mua-ban-xe-tai-binh-duong",
+                        "slug_alphabet": "muabanxetaibinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-binh-duong"
+                    }, {
+                        "id": 395798,
+                        "name": "Mua Ban Xe Tai Thuan An Binh Duong",
+                        "slug": "mua-ban-xe-tai-thuan-an-binh-duong",
+                        "slug_alphabet": "muabanxetaithuananbinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-thuan-an-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-thuan-an-binh-duong"
+                    }, {
+                        "id": 531837,
+                        "name": "Mua Ban Xe Tai Moi 100% Gia Re O Dau Bao Nhieu Binh Duong",
+                        "slug": "mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "slug_alphabet": "muabanxetaimoi100giareodaubaonhieubinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong"
+                    }, {
+                        "id": 543828,
+                        "name": "Can Ban \/ Dich Vu Mua Ban Xe Tai",
+                        "slug": "can-ban-dich-vu-mua-ban-xe-tai",
+                        "slug_alphabet": "canbandichvumuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/can-ban-dich-vu-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/can-ban-dich-vu-mua-ban-xe-tai"
+                    }]
+                }
+            }
+        }, {
+            "_index": "muabannhanh",
+            "_type": "product",
+            "_id": "53820",
+            "_score": 4.2475257,
+            "_source": {
+                "id": 53820,
+                "hash_id": "3cd20000",
+                "name": "Chuy\u00ean b\u00e1n xe \u0111\u1ea7u k\u00e9o m\u0129 gi\u00e1 t\u1ed1t ,\u0111\u1ea1i l\u00fd \u0111\u1ed9c quy\u1ec1n ph\u00e2n ph\u1ed1i xe t\u1ea3i",
+                "slug": "chuyen-ban-xe-dau-keo-mi-gia-tot-dai-ly-doc-quyen-phan-phoi-xe-tai",
+                "url": "https:\/\/muabannhanh.com\/0938677792\/id-3cd20000",
+                "default_image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/08\/55ceb00919329_1439608841.jpg",
+                "default_thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/08\/55ceb00919329_1439608841.jpg",
+                "default_thumbnail_small_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail-small\/2015\/08\/55ceb00919329_1439608841.jpg",
+                "default_image": "2015\/08\/55ceb00919329_1439608841.jpg",
+                "gallery": [{
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/08\/55ceb00919329_1439608841.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/08\/55ceb00919329_1439608841.jpg",
+                    "image": "2015\/08\/55ceb00919329_1439608841.jpg",
+                    "caption": "Mua xe t\u1ea3i xe \u0111\u1ea7u k\u00e9o m\u0129 gi\u00e1 r\u1ebb nh\u1ea5t"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/08\/55ceb011e4180_1439608849.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/08\/55ceb011e4180_1439608849.jpg",
+                    "image": "2015\/08\/55ceb011e4180_1439608849.jpg",
+                    "caption": "Mua xe t\u1ea3i xe \u0111\u1ea7u k\u00e9o m\u0129 gi\u00e1 r\u1ebb nh\u1ea5t"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/08\/55ceb01497d74_1439608852.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/08\/55ceb01497d74_1439608852.jpg",
+                    "image": "2015\/08\/55ceb01497d74_1439608852.jpg",
+                    "caption": "Mua xe t\u1ea3i xe \u0111\u1ea7u k\u00e9o m\u0129 gi\u00e1 r\u1ebb nh\u1ea5t"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/08\/55ceb017a9589_1439608855.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/08\/55ceb017a9589_1439608855.jpg",
+                    "image": "2015\/08\/55ceb017a9589_1439608855.jpg",
+                    "caption": "Mua xe t\u1ea3i xe \u0111\u1ea7u k\u00e9o m\u0129 gi\u00e1 r\u1ebb nh\u1ea5t"
+                }],
+                "description": "C\u00d4NG TY HO\u00c0NG GIANG HOWO - H\u1ea2I PH\u00d2NG\r\n\r\nNH\u1eacP kh\u1ea9u B\u00e1n: Xe \u0111\u1ea7u k\u00e9o M\u1ef9 Freightliner , Xe \u0111\u1ea7u k\u00e9o m\u1ef9 International , Xe \u0111\u1ea7u k\u00e9o m\u1ef9 volvo\r\n\r\n C\u00d4NG TY HO\u00c0NG GIANG HOWO - H\u1ea2I PH\u00d2NG\r\n\r\nCHUY\u00caN S\u1ea2N XU\u1ea4TV\u00c0 D\u1ecaCH V\u1ee4 V\u1ec0 S\u01a0MI \u2013 R\u01a0MOOC- CONTAINER  XE \u0110\u1ea6U K\u00c9O\r\n\r\n\u0110\u1ecba ch\u1ec9: Km s\u1ed1 8, \u0111\u01b0\u1eddng 5 H\u1ea3i Ph\u00f2ng - H\u00e0 N\u1ed9i, TP H\u1ea3i Ph\u00f2ng\r\n\r\nB\u00c1O GI\u00c1 XE \u0110\u1ea6U K\u00c9O M\u1ef8                                   \r\nC\u00d4NG TY HO\u00c0NG GIANG HOWO tr\u00e2n tr\u1ecdng b\u00e1o gi\u00e1 g\u1eedi t\u1edbi Kh\u00e1ch H\u00e0ng b\u00e1o gi\u00e1 c\u00e1c S\u1ea3n ph\u1ea9m Xe \u0110\u1ea7u K\u00e9o M\u1ef9 h\u1ed7 tr\u1ee3 giao xe cho kh\u00e1ch mua t\u1ea1i H\u1ea3i Ph\u00f2ng, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh (S\u00e0i G\u00f2n), \u0110\u00e0 N\u1eb5ng v\u1edbi quy c\u00e1ch nh\u01b0 sau : \r\n\r\nXE \u0110\u1ea6U K\u00c9O FREIGHTLINER: \r\n\r\n\u0110\u1eb6C T\u00cdNH : Xe \u0111\u00e3 qua S\u1eed D\u1ee5ng  80% Nh\u1eadp kh\u1ea9u t\u1eebUSA\r\nTH\u00d4NG S\u1ed0 :\r\n\r\n  H\u00ccNH \u1ea2NH TH\u1ef0C T\u1ebe\r\n\r\nv  Truckhead : 2010 Freightliner CASCADIA, USA.\r\n\r\nv  \u0110\u1ed9ng c\u01a1 : Detroit (DD15 )\r\n\r\nv Model : 2010 (Sx 8\/2009)\r\n\r\nv  C\u1ee1 l\u1ed1p xe :22.5 (R275)\r\n\r\nv Kho\u1ea3ng c\u00e1ch tr\u1ee5c tr\u01b0\u1edbc v\u00e0 sau:  178 inch(4,57m)\r\n\r\nv  C\u00f4ng su\u1ea5t 450 HP\r\n\r\nv  H\u1ed9p s\u1ed1 :10 s\u1ed1\r\n\r\nv  Tay l\u00e1i tr\u1ee3 l\u1ef1c\r\n\r\nv  S\u1ed1 ch\u1ed7 ng\u1ed3i : 2 (lo\u1ea1i \u0111\u1ea7u cao c\u00f3 gi\u01b0\u1eddng ng\u1ee7)\r\n\r\nv  Trang b\u1ecb phanh \u0111\u1ed9ng c\u01a1\r\n\r\nv  Tr\u1ecdng l\u01b0\u1ee3ng b\u1ea3n th\u00e2n: 7857 Kg\r\n\r\nv  Gh\u1ebf h\u01a1i \u0111i\u1ec1u ch\u1ec9nh \u0111i\u1ec7n\r\n\r\nv Tr\u1ecdng l\u01b0\u1ee3ng k\u00e9o theo:  37513 Kg\r\n\r\nv  S\u1ed1 km \u0111\u00e3 \u0111i: 800 ngh\u00ecn miles\r\n\r\nv M\u1ea7u: xanh\r\n\r\nv N\u1ed9i th\u1ea5t:  B\u1ecdc da x\u1ecbn",
+                "category": {
+                    "id": 311,
+                    "name": "Mua b\u00e1n xe t\u1ea3i",
+                    "slug": "mua-ban-xe-tai",
+                    "slug_alphabet": "muabanxetai",
+                    "url": "https:\/\/muabannhanh.com\/mua-ban-xe-tai"
+                },
+                "parent_category": {
+                    "id": 4,
+                    "name": "\u00d4 t\u00f4\/Xe t\u1ea3i",
+                    "slug": "4-o-to-xe-tai"
+                },
+                "price_origin": null,
+                "price": 1000000000,
+                "price_sale_off": null,
+                "type": "C\u1ea7n b\u00e1n\/D\u1ecbch v\u1ee5",
+                "type_value": 1,
+                "conditions": "M\u1edbi 100%",
+                "conditions_value": 1,
+                "address": "10\/9 QL13 - Khu Ph\u1ed1 T\u00e2y - Ph\u01b0\u1eddng V\u0129nh Ph\u00fa - Thu\u1eadn An - B\u00ecnh D\u01b0\u01a1ng",
+                "province": {
+                    "id": 10,
+                    "hash_id": "0a000000",
+                    "name": "B\u00ecnh D\u01b0\u01a1ng",
+                    "slug": "binh-duong",
+                    "slug_alphabet": "binhduong",
+                    "url": "https:\/\/muabannhanh.com\/tinh-thanh\/binh-duong\/id-0a000000"
+                },
+                "district": {
+                    "id": 123,
+                    "hash_id": "7b000000",
+                    "name": "Qu\u1eadn 6",
+                    "slug": "quan-6",
+                    "slug_alphabet": "quan6",
+                    "url": "https:\/\/muabannhanh.com\/quan-huyen\/quan-6\/id-7b000000"
+                },
+                "status": "Active",
+                "status_value": 1,
+                "is_shown": 1,
+                "is_express_delivery": 0,
+                "attribute_express_delivery": null,
+                "attribute_express_delivery_slug": null,
+                "attribute_express_delivery_value": 0,
+                "quantity_max": 0,
+                "view_count": 1053,
+                "created_at": "2015-08-15 10:25:50",
+                "updated_at": "2016-01-26 08:25:12",
+                "time_updated_at": 1453771512,
+                "location": {
+                    "lat": "11.5418145",
+                    "lon": "106.9094845"
+                },
+                "user": {
+                    "id": 9142,
+                    "phone": "0938 677 792",
+                    "phone_number": "0938677792",
+                    "name": "Nguy\u1ec5n Trung C\u01b0\u1eddng",
+                    "slug": "nguyen-trung-cuong",
+                    "url": "https:\/\/muabannhanh.com\/0938677792",
+                    "avatar_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/avatar\/2015\/07\/55b9a0baedbf1_1438228666.jpg",
+                    "cover_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/cover\/2015\/07\/55b9a0f69f331_1438228726.jpg",
+                    "membership": "Basic",
+                    "membership_value": 21,
+                    "vip_type": 0,
+                    "location": {
+                        "lat": "11.5418145",
+                        "lon": "106.9094845"
+                    },
+                    "address": "10\/9 QL13 - Khu Ph\u1ed1 T\u00e2y - Ph\u01b0\u1eddng V\u0129nh Ph\u00fa - Thu\u1eadn An - B\u00ecnh D\u01b0\u01a1ng"
+                },
+                "tag": {
+                    "user": [{
+                        "id": 216871,
+                        "name": "Ban Dau Keo Mi",
+                        "slug": "ban-dau-keo-mi",
+                        "slug_alphabet": "bandaukeomi",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-dau-keo-mi",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/ban-dau-keo-mi"
+                    }, {
+                        "id": 216872,
+                        "name": "Chuyen Ban Xe Dau Keo Mi Uy Tin",
+                        "slug": "chuyen-ban-xe-dau-keo-mi-uy-tin",
+                        "slug_alphabet": "chuyenbanxedaukeomiuytin",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/chuyen-ban-xe-dau-keo-mi-uy-tin",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/chuyen-ban-xe-dau-keo-mi-uy-tin"
+                    }, {
+                        "id": 216873,
+                        "name": "Dai Ly Doc Quyen Xe Dau Keo Mi Tai Mien Nam",
+                        "slug": "dai-ly-doc-quyen-xe-dau-keo-mi-tai-mien-nam",
+                        "slug_alphabet": "dailydocquyenxedaukeomitaimiennam",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/dai-ly-doc-quyen-xe-dau-keo-mi-tai-mien-nam",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/dai-ly-doc-quyen-xe-dau-keo-mi-tai-mien-nam"
+                    }],
+                    "admin": [{
+                        "id": 36615,
+                        "name": "Xe Dau Keo Gia Re",
+                        "slug": "xe-dau-keo-gia-re",
+                        "slug_alphabet": "xedaukeogiare",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-dau-keo-gia-re",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-dau-keo-gia-re"
+                    }, {
+                        "id": 36616,
+                        "name": "Xe Dau Keo Gia Tot",
+                        "slug": "xe-dau-keo-gia-tot",
+                        "slug_alphabet": "xedaukeogiatot",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-dau-keo-gia-tot",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-dau-keo-gia-tot"
+                    }, {
+                        "id": 65693,
+                        "name": "Xe Dau Keo",
+                        "slug": "xe-dau-keo",
+                        "slug_alphabet": "xedaukeo",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-dau-keo",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-dau-keo"
+                    }, {
+                        "id": 89773,
+                        "name": "Mua Xe Dau Keo",
+                        "slug": "mua-xe-dau-keo",
+                        "slug_alphabet": "muaxedaukeo",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-xe-dau-keo",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-xe-dau-keo"
+                    }, {
+                        "id": 89774,
+                        "name": "Mua Xe Dau Keo Gia Re",
+                        "slug": "mua-xe-dau-keo-gia-re",
+                        "slug_alphabet": "muaxedaukeogiare",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-xe-dau-keo-gia-re",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-xe-dau-keo-gia-re"
+                    }, {
+                        "id": 89775,
+                        "name": "Mua Xe Dau Keo Gia Tot",
+                        "slug": "mua-xe-dau-keo-gia-tot",
+                        "slug_alphabet": "muaxedaukeogiatot",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-xe-dau-keo-gia-tot",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-xe-dau-keo-gia-tot"
+                    }, {
+                        "id": 89776,
+                        "name": "Mua Xe Dau Keo Chat Luong",
+                        "slug": "mua-xe-dau-keo-chat-luong",
+                        "slug_alphabet": "muaxedaukeochatluong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-xe-dau-keo-chat-luong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-xe-dau-keo-chat-luong"
+                    }, {
+                        "id": 126872,
+                        "name": "Xe Dau Keo Chat Luong",
+                        "slug": "xe-dau-keo-chat-luong",
+                        "slug_alphabet": "xedaukeochatluong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-dau-keo-chat-luong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-dau-keo-chat-luong"
+                    }, {
+                        "id": 393360,
+                        "name": "Gia Mua Ban Xe Tai",
+                        "slug": "gia-mua-ban-xe-tai",
+                        "slug_alphabet": "giamuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/gia-mua-ban-xe-tai"
+                    }, {
+                        "id": 393408,
+                        "name": "Mua Ban Xe Tai Moi 100%",
+                        "slug": "mua-ban-xe-tai-moi-100",
+                        "slug_alphabet": "muabanxetaimoi100",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-moi-100"
+                    }, {
+                        "id": 395797,
+                        "name": "Mua Ban Xe Tai Binh Duong",
+                        "slug": "mua-ban-xe-tai-binh-duong",
+                        "slug_alphabet": "muabanxetaibinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-binh-duong"
+                    }, {
+                        "id": 395798,
+                        "name": "Mua Ban Xe Tai Thuan An Binh Duong",
+                        "slug": "mua-ban-xe-tai-thuan-an-binh-duong",
+                        "slug_alphabet": "muabanxetaithuananbinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-thuan-an-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-thuan-an-binh-duong"
+                    }, {
+                        "id": 531837,
+                        "name": "Mua Ban Xe Tai Moi 100% Gia Re O Dau Bao Nhieu Binh Duong",
+                        "slug": "mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "slug_alphabet": "muabanxetaimoi100giareodaubaonhieubinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong"
+                    }, {
+                        "id": 543828,
+                        "name": "Can Ban \/ Dich Vu Mua Ban Xe Tai",
+                        "slug": "can-ban-dich-vu-mua-ban-xe-tai",
+                        "slug_alphabet": "canbandichvumuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/can-ban-dich-vu-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/can-ban-dich-vu-mua-ban-xe-tai"
+                    }]
+                }
+            }
+        }, {
+            "_index": "muabannhanh",
+            "_type": "product",
+            "_id": "115333",
+            "_score": 4.2475257,
+            "_source": {
+                "id": 115333,
+                "hash_id": "85c20100",
+                "name": "B\u00e1n Xe t\u1ea3i Dongfeng b170 \/ 8.7 t\u1ea5n t\u1ea1i mi\u1ec1n nam",
+                "slug": "ban-xe-tai-dong-feng-b170-8-7-tan-tai-mien-nam",
+                "url": "https:\/\/muabannhanh.com\/0938677792\/id-85c20100",
+                "default_image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/10\/26\/562d85d1559dc_1445823953.gif",
+                "default_thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/10\/26\/562d85d1559dc_1445823953.gif",
+                "default_thumbnail_small_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail-small\/2015\/10\/26\/562d85d1559dc_1445823953.gif",
+                "default_image": "2015\/10\/26\/562d85d1559dc_1445823953.gif",
+                "gallery": [{
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/10\/26\/562d85d1559dc_1445823953.gif",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/10\/26\/562d85d1559dc_1445823953.gif",
+                    "image": "2015\/10\/26\/562d85d1559dc_1445823953.gif",
+                    "caption": "Xe t\u1ea3i Dongfeng"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/10\/26\/562d85d335391_1445823955.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/10\/26\/562d85d335391_1445823955.jpg",
+                    "image": "2015\/10\/26\/562d85d335391_1445823955.jpg",
+                    "caption": "xe t\u1ea3i dongfeng ho\u00e0ng huy"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/10\/26\/562d85d6a6135_1445823958.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/10\/26\/562d85d6a6135_1445823958.jpg",
+                    "image": "2015\/10\/26\/562d85d6a6135_1445823958.jpg",
+                    "caption": "xe t\u1ea3i dongfeng ho\u00e0ng huy"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/10\/26\/562d85db48b53_1445823963.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/10\/26\/562d85db48b53_1445823963.jpg",
+                    "image": "2015\/10\/26\/562d85db48b53_1445823963.jpg",
+                    "caption": "xe t\u1ea3i dongfeng ho\u00e0ng huy"
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/10\/26\/562d85e2da680_1445823970.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/10\/26\/562d85e2da680_1445823970.jpg",
+                    "image": "2015\/10\/26\/562d85e2da680_1445823970.jpg",
+                    "caption": "xe t\u1ea3i dongfeng ho\u00e0ng huy"
+                }],
+                "description": "H\u00e3ng s\u1ea3n xu\u1ea5t:\tDongFeng b170\r\nlien h\u1ec7 : 0901.362.238 \r\nXu\u1ea5t x\u1ee9:\tVi\u1ec7t Nam\r\nTr\u1ecdng t\u1ea3i:\t8.75 t\u1ea5n\r\nT\u1ed5ng tr\u1ecdng t\u1ea3i:\t15.110 kg\r\nK\u00edch th\u01b0\u1edbc t\u1ed5ng th\u1ec3:\t9.860 x 2.500 x 3.560 mm (d\u00e0i x r\u1ed9ng x cao)\r\nK\u00edch th\u01b0\u1edbc th\u00f9ng:\t7.510 x 2.360 x 805\/2.150 (d\u00e0i x r\u1ed9ng x cao)\r\nDung t\u00edch xy lanh:\t4.214 cm3\r\nH\u1ed9p s\u1ed1:\t8 s\u1ed1 ti\u1ebfn , 1 s\u1ed1 l\u00f9i\r\nH\u1ec7 th\u1ed1ng phanh:\tD\u1eabn \u0111\u1ed9ng kh\u00ed n\u00e9n hai d\u00f2ng, ki\u1ec3u m\u00e1 phanh tang tr\u1ed1ng\r\nL\u1ed1p xe:\t10.00-20\r\nKi\u1ec3u ca bin:\tKi\u1ec3u l\u1eadt\r\nH\u1ec7 th\u1ed1ng tr\u1ee3 l\u1ef1c:\tC\u00f3\r\nTi\u00eau chu\u1ea9n kh\u00ed th\u1ea3i:\tEuro II\r\nM\u00e0u xe:\tTr\u1eafng, Xanh Comet, Xanh l\u00e1 c\u00e2y, v\u00e0ng\r\nPh\u1ee5 ki\u1ec7n k\u00e8m theo:\tL\u1ed1p d\u1ef1 ph\u00f2ng, S\u1ed5 b\u1ea3o h\u00e0nh, \u0110\u1ed3 ngh\u1ec1 s\u1eeda xe\r\nT\u00ecnh tr\u1ea1ng:\tM\u1edbi 100%\r\nB\u1ea3o h\u00e0nh:\t02 n\u0103m",
+                "category": {
+                    "id": 311,
+                    "name": "Mua b\u00e1n xe t\u1ea3i",
+                    "slug": "mua-ban-xe-tai",
+                    "slug_alphabet": "muabanxetai",
+                    "url": "https:\/\/muabannhanh.com\/mua-ban-xe-tai"
+                },
+                "parent_category": {
+                    "id": 4,
+                    "name": "\u00d4 t\u00f4\/Xe t\u1ea3i",
+                    "slug": "4-o-to-xe-tai"
+                },
+                "price_origin": null,
+                "price": null,
+                "price_sale_off": null,
+                "type": "C\u1ea7n b\u00e1n\/D\u1ecbch v\u1ee5",
+                "type_value": 1,
+                "conditions": "M\u1edbi 100%",
+                "conditions_value": 1,
+                "address": "10\/9 QL13 - Khu Ph\u1ed1 T\u00e2y - Ph\u01b0\u1eddng V\u0129nh Ph\u00fa - Thu\u1eadn An - B\u00ecnh D\u01b0\u01a1ng",
+                "province": {
+                    "id": 10,
+                    "hash_id": "0a000000",
+                    "name": "B\u00ecnh D\u01b0\u01a1ng",
+                    "slug": "binh-duong",
+                    "slug_alphabet": "binhduong",
+                    "url": "https:\/\/muabannhanh.com\/tinh-thanh\/binh-duong\/id-0a000000"
+                },
+                "district": {
+                    "id": 123,
+                    "hash_id": "7b000000",
+                    "name": "Qu\u1eadn 6",
+                    "slug": "quan-6",
+                    "slug_alphabet": "quan6",
+                    "url": "https:\/\/muabannhanh.com\/quan-huyen\/quan-6\/id-7b000000"
+                },
+                "status": "Active",
+                "status_value": 1,
+                "is_shown": 1,
+                "is_express_delivery": 0,
+                "attribute_express_delivery": null,
+                "attribute_express_delivery_slug": null,
+                "attribute_express_delivery_value": 0,
+                "quantity_max": 0,
+                "view_count": 533,
+                "created_at": "2015-10-25 18:47:51",
+                "updated_at": "2016-01-25 17:22:44",
+                "time_updated_at": 1453717364,
+                "location": {
+                    "lat": "11.5418145",
+                    "lon": "106.9094845"
+                },
+                "user": {
+                    "id": 9142,
+                    "phone": "0938 677 792",
+                    "phone_number": "0938677792",
+                    "name": "Nguy\u1ec5n Trung C\u01b0\u1eddng",
+                    "slug": "nguyen-trung-cuong",
+                    "url": "https:\/\/muabannhanh.com\/0938677792",
+                    "avatar_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/avatar\/2015\/07\/55b9a0baedbf1_1438228666.jpg",
+                    "cover_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/cover\/2015\/07\/55b9a0f69f331_1438228726.jpg",
+                    "membership": "Basic",
+                    "membership_value": 21,
+                    "vip_type": 0,
+                    "location": {
+                        "lat": "11.5418145",
+                        "lon": "106.9094845"
+                    },
+                    "address": "10\/9 QL13 - Khu Ph\u1ed1 T\u00e2y - Ph\u01b0\u1eddng V\u0129nh Ph\u00fa - Thu\u1eadn An - B\u00ecnh D\u01b0\u01a1ng"
+                },
+                "tag": {
+                    "user": [{
+                        "id": 96939,
+                        "name": "Dai Ly Xe Tai Dongfeng Hoang Huy",
+                        "slug": "dai-ly-xe-tai-dongfeng-hoang-huy",
+                        "slug_alphabet": "dailyxetaidongfenghoanghuy",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/dai-ly-xe-tai-dongfeng-hoang-huy",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/dai-ly-xe-tai-dongfeng-hoang-huy"
+                    }, {
+                        "id": 386272,
+                        "name": "Ban Xe Tai Dongfeng Hoang Huy B170",
+                        "slug": "ban-xe-tai-dongfeng-hoang-huy-b170",
+                        "slug_alphabet": "banxetaidongfenghoanghuyb170",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-xe-tai-dongfeng-hoang-huy-b170",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/ban-xe-tai-dongfeng-hoang-huy-b170"
+                    }, {
+                        "id": 386273,
+                        "name": "Gia Xe Tai B170",
+                        "slug": "gia-xe-tai-b170",
+                        "slug_alphabet": "giaxetaib170",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-xe-tai-b170",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/gia-xe-tai-b170"
+                    }, {
+                        "id": 386274,
+                        "name": "Mua Xe Tra Gop Gia Re Nhat",
+                        "slug": "mua-xe-tra-gop-gia-re-nhat",
+                        "slug_alphabet": "muaxetragopgiarenhat",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-xe-tra-gop-gia-re-nhat",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-xe-tra-gop-gia-re-nhat"
+                    }],
+                    "admin": [{
+                        "id": 17183,
+                        "name": "Xe Tai Dongfeng",
+                        "slug": "xe-tai-dongfeng",
+                        "slug_alphabet": "xetaidongfeng",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-dongfeng",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-dongfeng"
+                    }, {
+                        "id": 393360,
+                        "name": "Gia Mua Ban Xe Tai",
+                        "slug": "gia-mua-ban-xe-tai",
+                        "slug_alphabet": "giamuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/gia-mua-ban-xe-tai"
+                    }, {
+                        "id": 393408,
+                        "name": "Mua Ban Xe Tai Moi 100%",
+                        "slug": "mua-ban-xe-tai-moi-100",
+                        "slug_alphabet": "muabanxetaimoi100",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-moi-100"
+                    }, {
+                        "id": 395797,
+                        "name": "Mua Ban Xe Tai Binh Duong",
+                        "slug": "mua-ban-xe-tai-binh-duong",
+                        "slug_alphabet": "muabanxetaibinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-binh-duong"
+                    }, {
+                        "id": 395798,
+                        "name": "Mua Ban Xe Tai Thuan An Binh Duong",
+                        "slug": "mua-ban-xe-tai-thuan-an-binh-duong",
+                        "slug_alphabet": "muabanxetaithuananbinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-thuan-an-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-thuan-an-binh-duong"
+                    }, {
+                        "id": 531837,
+                        "name": "Mua Ban Xe Tai Moi 100% Gia Re O Dau Bao Nhieu Binh Duong",
+                        "slug": "mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "slug_alphabet": "muabanxetaimoi100giareodaubaonhieubinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong"
+                    }, {
+                        "id": 543828,
+                        "name": "Can Ban \/ Dich Vu Mua Ban Xe Tai",
+                        "slug": "can-ban-dich-vu-mua-ban-xe-tai",
+                        "slug_alphabet": "canbandichvumuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/can-ban-dich-vu-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/can-ban-dich-vu-mua-ban-xe-tai"
+                    }]
+                }
+            }
+        }, {
+            "_index": "muabannhanh",
+            "_type": "product",
+            "_id": "42080",
+            "_score": 4.2475257,
+            "_source": {
+                "id": 42080,
+                "hash_id": "60a40000",
+                "name": "B\u00e1n Xe T\u1ea3i 4 Ch\u00e2n B\u1ed3n Xi-t\u00e9c 20m3 \u0111\u1ebfn 22m3",
+                "slug": "ban-xe-tai-4-chan-bon-xi-tec-20m3-den-22m3",
+                "url": "https:\/\/muabannhanh.com\/0938677792\/id-60a40000",
+                "default_image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/07\/55b9a2b7f3474_1438229175.jpg",
+                "default_thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/07\/55b9a2b7f3474_1438229175.jpg",
+                "default_thumbnail_small_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail-small\/2015\/07\/55b9a2b7f3474_1438229175.jpg",
+                "default_image": "2015\/07\/55b9a2b7f3474_1438229175.jpg",
+                "gallery": [{
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/07\/55b9a2b7f3474_1438229175.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/07\/55b9a2b7f3474_1438229175.jpg",
+                    "image": "2015\/07\/55b9a2b7f3474_1438229175.jpg",
+                    "caption": "Xe B\u1ed3n Xit\u00e9c "
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/07\/55b9a2bad254b_1438229178.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/07\/55b9a2bad254b_1438229178.jpg",
+                    "image": "2015\/07\/55b9a2bad254b_1438229178.jpg",
+                    "caption": "Xe B\u1ed3n Xit\u00e9c "
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/07\/55b9a2bdc584e_1438229181.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/07\/55b9a2bdc584e_1438229181.jpg",
+                    "image": "2015\/07\/55b9a2bdc584e_1438229181.jpg",
+                    "caption": "Xe B\u1ed3n Xit\u00e9c "
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/07\/55b9a2c069846_1438229184.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/07\/55b9a2c069846_1438229184.jpg",
+                    "image": "2015\/07\/55b9a2c069846_1438229184.jpg",
+                    "caption": "Xe B\u1ed3n Xit\u00e9c "
+                }, {
+                    "image_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/2015\/07\/55b9a2c468863_1438229188.jpg",
+                    "thumbnail_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/gallery\/thumbnail\/2015\/07\/55b9a2c468863_1438229188.jpg",
+                    "image": "2015\/07\/55b9a2c468863_1438229188.jpg",
+                    "caption": "Xe B\u1ed3n Xit\u00e9c "
+                }],
+                "description": "Th\u00f4ng S\u1ed1 Ti\u00eau Bi\u1ec3u Xe T\u1ea3i 4 Ch\u00e2n B\u1ed3n Xi-t\u00e9c 20M3\r\n\r\nXe Xi-tec Howo 4 ch\u00e2n 20m3 - 20 kh\u1ed1i nh\u1eadp\r\nChassis Model : ZZ1317N466GC1\r\nKi\u1ec3u d\u1eabn \u0111\u1ed9ng: 8X4, Nh\u00e3n hi\u1ec7u: CNHTC\/HOWO\r\n\u0110\u1ed9ng c\u01a1 Model : MC07.34-30, C\u00f4ng su\u1ea5t \u0111\u1ed9ng c\u01a1 340HP\r\nH\u1ed9p s\u1ed1: HW19712, 12 s\u1ed1 ti\u1ebfn, 2 s\u1ed1 l\u00f9i.\r\nCabin: T5G-W, 1 gi\u01b0\u1eddng n\u1eb1m.\r\nL\u1ed1p: 11.00R20\r\nKh\u1ed1i l\u01b0\u1ee3ng b\u1ea3n th\u00e2n: 13.910 kg\r\nKh\u1ed1i l\u01b0\u1ee3ng h\u00e0ng chuy\u00ean ch\u1edf cho ph\u00e9p tham gia giao th\u00f4ng: 14.760 kg\r\nKh\u1ed1i l\u01b0\u1ee3ng to\u00e0n b\u1ed9 cho ph\u00e9p tham gia giao th\u00f4ng: 28.800 kg\r\nK\u00edch th\u01b0\u1edbc bao: 11980 x 2500 x 3260 mm\r\nKho\u1ea3ng c\u00e1ch tr\u1ee5c: 1800+4600+1350 mm\r\nTh\u1ec3 t\u00edch xi t\u00e9c: 20m3, chia l\u00e0m 05 khoang ch\u1ee9a.",
+                "category": {
+                    "id": 311,
+                    "name": "Mua b\u00e1n xe t\u1ea3i",
+                    "slug": "mua-ban-xe-tai",
+                    "slug_alphabet": "muabanxetai",
+                    "url": "https:\/\/muabannhanh.com\/mua-ban-xe-tai"
+                },
+                "parent_category": {
+                    "id": 4,
+                    "name": "\u00d4 t\u00f4\/Xe t\u1ea3i",
+                    "slug": "4-o-to-xe-tai"
+                },
+                "price_origin": null,
+                "price": null,
+                "price_sale_off": null,
+                "type": "C\u1ea7n b\u00e1n\/D\u1ecbch v\u1ee5",
+                "type_value": 1,
+                "conditions": "M\u1edbi 100%",
+                "conditions_value": 1,
+                "address": "10\/9 - Khu Ph\u1ed1 T\u00e2y - Ph\u01b0\u1eddng v\u0129nh ph\u00fa - Thu\u1eadn An - B\u00ecnh D\u01b0\u01a1ng",
+                "province": {
+                    "id": 10,
+                    "hash_id": "0a000000",
+                    "name": "B\u00ecnh D\u01b0\u01a1ng",
+                    "slug": "binh-duong",
+                    "slug_alphabet": "binhduong",
+                    "url": "https:\/\/muabannhanh.com\/tinh-thanh\/binh-duong\/id-0a000000"
+                },
+                "district": {
+                    "id": 123,
+                    "hash_id": "7b000000",
+                    "name": "Qu\u1eadn 6",
+                    "slug": "quan-6",
+                    "slug_alphabet": "quan6",
+                    "url": "https:\/\/muabannhanh.com\/quan-huyen\/quan-6\/id-7b000000"
+                },
+                "status": "Active",
+                "status_value": 1,
+                "is_shown": 1,
+                "is_express_delivery": 0,
+                "attribute_express_delivery": null,
+                "attribute_express_delivery_slug": null,
+                "attribute_express_delivery_value": 0,
+                "quantity_max": 0,
+                "view_count": 741,
+                "created_at": "2015-07-29 07:12:10",
+                "updated_at": "2016-01-25 02:24:13",
+                "time_updated_at": 1453663453,
+                "location": {
+                    "lat": "11.5418145",
+                    "lon": "106.9094845"
+                },
+                "user": {
+                    "id": 9142,
+                    "phone": "0938 677 792",
+                    "phone_number": "0938677792",
+                    "name": "Nguy\u1ec5n Trung C\u01b0\u1eddng",
+                    "slug": "nguyen-trung-cuong",
+                    "url": "https:\/\/muabannhanh.com\/0938677792",
+                    "avatar_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/avatar\/2015\/07\/55b9a0baedbf1_1438228666.jpg",
+                    "cover_url": "https:\/\/cdn.muabannhanh.com\/asset\/frontend\/img\/cover\/2015\/07\/55b9a0f69f331_1438228726.jpg",
+                    "membership": "Basic",
+                    "membership_value": 21,
+                    "vip_type": 0,
+                    "location": {
+                        "lat": "11.5418145",
+                        "lon": "106.9094845"
+                    },
+                    "address": "10\/9 QL13 - Khu Ph\u1ed1 T\u00e2y - Ph\u01b0\u1eddng V\u0129nh Ph\u00fa - Thu\u1eadn An - B\u00ecnh D\u01b0\u01a1ng"
+                },
+                "tag": {
+                    "user": [{
+                        "id": 174137,
+                        "name": "Ban Bon Xitec Gia Re",
+                        "slug": "ban-bon-xitec-gia-re",
+                        "slug_alphabet": "banbonxitecgiare",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/ban-bon-xitec-gia-re",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/ban-bon-xitec-gia-re"
+                    }],
+                    "admin": [{
+                        "id": 77021,
+                        "name": "Howo",
+                        "slug": "howo",
+                        "slug_alphabet": "howo",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/howo",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/howo"
+                    }, {
+                        "id": 126294,
+                        "name": "Xe Tai Howo",
+                        "slug": "xe-tai-howo",
+                        "slug_alphabet": "xetaihowo",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-tai-howo",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-tai-howo"
+                    }, {
+                        "id": 176027,
+                        "name": "Xe Xitec Howo",
+                        "slug": "xe-xitec-howo",
+                        "slug_alphabet": "xexitechowo",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec-howo",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec-howo"
+                    }, {
+                        "id": 176028,
+                        "name": "Xe Xitec Howo 4 Chan",
+                        "slug": "xe-xitec-howo-4-chan",
+                        "slug_alphabet": "xexitechowo4chan",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec-howo-4-chan",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec-howo-4-chan"
+                    }, {
+                        "id": 176029,
+                        "name": "Xe Xitec Howo Gia Re",
+                        "slug": "xe-xitec-howo-gia-re",
+                        "slug_alphabet": "xexitechowogiare",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec-howo-gia-re",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec-howo-gia-re"
+                    }, {
+                        "id": 176030,
+                        "name": "Xe Xitec Howo Gia Tot",
+                        "slug": "xe-xitec-howo-gia-tot",
+                        "slug_alphabet": "xexitechowogiatot",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec-howo-gia-tot",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec-howo-gia-tot"
+                    }, {
+                        "id": 176031,
+                        "name": "Xe Xitec Howo Chinh Hang",
+                        "slug": "xe-xitec-howo-chinh-hang",
+                        "slug_alphabet": "xexitechowochinhhang",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec-howo-chinh-hang",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec-howo-chinh-hang"
+                    }, {
+                        "id": 176032,
+                        "name": "Xe Xitec Howo Moi",
+                        "slug": "xe-xitec-howo-moi",
+                        "slug_alphabet": "xexitechowomoi",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec-howo-moi",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec-howo-moi"
+                    }, {
+                        "id": 176033,
+                        "name": "Xe Xitec Howo 2015",
+                        "slug": "xe-xitec-howo-2015",
+                        "slug_alphabet": "xexitechowo2015",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec-howo-2015",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec-howo-2015"
+                    }, {
+                        "id": 176034,
+                        "name": "Xe Xitec Howo Tra Gop",
+                        "slug": "xe-xitec-howo-tra-gop",
+                        "slug_alphabet": "xexitechowotragop",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec-howo-tra-gop",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec-howo-tra-gop"
+                    }, {
+                        "id": 176035,
+                        "name": "Xe Xitec Howo Binh Duong",
+                        "slug": "xe-xitec-howo-binh-duong",
+                        "slug_alphabet": "xexitechowobinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec-howo-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec-howo-binh-duong"
+                    }, {
+                        "id": 176036,
+                        "name": "Xe Xitec Howo Hcm",
+                        "slug": "xe-xitec-howo-hcm",
+                        "slug_alphabet": "xexitechowohcm",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec-howo-hcm",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec-howo-hcm"
+                    }, {
+                        "id": 176037,
+                        "name": "Xe Xitec Howo Bon",
+                        "slug": "xe-xitec-howo-bon",
+                        "slug_alphabet": "xexitechowobon",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec-howo-bon",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec-howo-bon"
+                    }, {
+                        "id": 176038,
+                        "name": "Xe Bon Xitec Howo 20 Khoi",
+                        "slug": "xe-bon-xitec-howo-20-khoi",
+                        "slug_alphabet": "xebonxitechowo20khoi",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-bon-xitec-howo-20-khoi",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-bon-xitec-howo-20-khoi"
+                    }, {
+                        "id": 176039,
+                        "name": "Xe Bon Xitec Howo",
+                        "slug": "xe-bon-xitec-howo",
+                        "slug_alphabet": "xebonxitechowo",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-bon-xitec-howo",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-bon-xitec-howo"
+                    }, {
+                        "id": 176040,
+                        "name": "Xe Xitec",
+                        "slug": "xe-xitec",
+                        "slug_alphabet": "xexitec",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-xitec",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-xitec"
+                    }, {
+                        "id": 176041,
+                        "name": "Xe Bon Xitec",
+                        "slug": "xe-bon-xitec",
+                        "slug_alphabet": "xebonxitec",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/xe-bon-xitec",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/xe-bon-xitec"
+                    }, {
+                        "id": 393360,
+                        "name": "Gia Mua Ban Xe Tai",
+                        "slug": "gia-mua-ban-xe-tai",
+                        "slug_alphabet": "giamuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/gia-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/gia-mua-ban-xe-tai"
+                    }, {
+                        "id": 393408,
+                        "name": "Mua Ban Xe Tai Moi 100%",
+                        "slug": "mua-ban-xe-tai-moi-100",
+                        "slug_alphabet": "muabanxetaimoi100",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-moi-100"
+                    }, {
+                        "id": 395797,
+                        "name": "Mua Ban Xe Tai Binh Duong",
+                        "slug": "mua-ban-xe-tai-binh-duong",
+                        "slug_alphabet": "muabanxetaibinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-binh-duong"
+                    }, {
+                        "id": 395798,
+                        "name": "Mua Ban Xe Tai Thuan An Binh Duong",
+                        "slug": "mua-ban-xe-tai-thuan-an-binh-duong",
+                        "slug_alphabet": "muabanxetaithuananbinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-thuan-an-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-thuan-an-binh-duong"
+                    }, {
+                        "id": 531837,
+                        "name": "Mua Ban Xe Tai Moi 100% Gia Re O Dau Bao Nhieu Binh Duong",
+                        "slug": "mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "slug_alphabet": "muabanxetaimoi100giareodaubaonhieubinhduong",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/mua-ban-xe-tai-moi-100-gia-re-o-dau-bao-nhieu-binh-duong"
+                    }, {
+                        "id": 543828,
+                        "name": "Can Ban \/ Dich Vu Mua Ban Xe Tai",
+                        "slug": "can-ban-dich-vu-mua-ban-xe-tai",
+                        "slug_alphabet": "canbandichvumuabanxetai",
+                        "url_tag": "https:\/\/muabannhanh.com\/tag\/can-ban-dich-vu-mua-ban-xe-tai",
+                        "url_label": "https:\/\/muabannhanh.com\/0938677792\/l\/can-ban-dich-vu-mua-ban-xe-tai"
+                    }]
+                }
+            }
+        }]
+    }
+}
