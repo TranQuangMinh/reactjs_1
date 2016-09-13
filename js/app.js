@@ -181,11 +181,11 @@ var ArticleBox = React.createClass({
                     'loading': false
                 });
             }
-        }.bind(self));
+        }.bind(this));
     },
 
     render: function() {
-        var html = '';
+        var ArticleItemBoxComponent = '';
 
         if (this.state.loading == false) {
             ArticleItemBoxComponent = this.state.source.hits.hits.map(function(article){
